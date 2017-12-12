@@ -1,0 +1,3338 @@
+{
+  "version": 1,
+  "duration": 399.341774,
+  "command": null,
+  "env": {
+    "SHELL": "/bin/bash",
+    "TERM": "xterm-256color"
+  },
+  "width": 80,
+  "height": 24,
+  "stdout": [
+    [
+      0.093067,
+      "\u001b]0;gokr@yoda: ~\u0007gokr@yoda:~$ "
+    ],
+    [
+      5.918161,
+      "# L"
+    ],
+    [
+      0.000532,
+      "e"
+    ],
+    [
+      2.8e-05,
+      "t's get a fresh Ubuntu to play in us"
+    ],
+    [
+      6e-05,
+      "i"
+    ],
+    [
+      6e-05,
+      "n"
+    ],
+    [
+      5.8e-05,
+      "g"
+    ],
+    [
+      5.9e-05,
+      " "
+    ],
+    [
+      5.8e-05,
+      "L"
+    ],
+    [
+      6e-05,
+      "X"
+    ],
+    [
+      6.3e-05,
+      "C"
+    ],
+    [
+      2.993352,
+      "\r\n"
+    ],
+    [
+      9.8e-05,
+      "\u001b]0;gokr@yoda: ~\u0007gokr@yoda:~$ "
+    ],
+    [
+      1.965031,
+      "l"
+    ],
+    [
+      0.195413,
+      "x"
+    ],
+    [
+      0.166634,
+      "c"
+    ],
+    [
+      0.089171,
+      " "
+    ],
+    [
+      0.156678,
+      "l"
+    ],
+    [
+      0.187114,
+      "a"
+    ],
+    [
+      0.120024,
+      "u"
+    ],
+    [
+      0.141861,
+      "n"
+    ],
+    [
+      0.141001,
+      "c"
+    ],
+    [
+      0.111293,
+      "h"
+    ],
+    [
+      0.089019,
+      " "
+    ],
+    [
+      0.731012,
+      "u"
+    ],
+    [
+      0.197459,
+      "b"
+    ],
+    [
+      0.222378,
+      "u"
+    ],
+    [
+      0.149981,
+      "n"
+    ],
+    [
+      0.16551,
+      "t"
+    ],
+    [
+      0.134477,
+      "u"
+    ],
+    [
+      0.357977,
+      ":"
+    ],
+    [
+      0.505956,
+      "1"
+    ],
+    [
+      0.152192,
+      "7"
+    ],
+    [
+      0.462988,
+      "."
+    ],
+    [
+      0.462613,
+      "0"
+    ],
+    [
+      0.235969,
+      "4"
+    ],
+    [
+      0.128955,
+      " "
+    ],
+    [
+      0.450046,
+      "s"
+    ],
+    [
+      0.110391,
+      "p"
+    ],
+    [
+      0.110529,
+      "r"
+    ],
+    [
+      0.166508,
+      "y"
+    ],
+    [
+      1.216,
+      "\r\n"
+    ],
+    [
+      0.027029,
+      "Creating spry\r\n"
+    ],
+    [
+      1.819175,
+      "\r\r"
+    ],
+    [
+      4e-05,
+      "Starting spry\r\n"
+    ],
+    [
+      0.289358,
+      "\u001b]0;gokr@yoda: ~\u0007gokr@yoda:~$ "
+    ],
+    [
+      1.221483,
+      "l"
+    ],
+    [
+      0.132929,
+      "x"
+    ],
+    [
+      0.070295,
+      "c"
+    ],
+    [
+      0.144292,
+      " "
+    ],
+    [
+      0.354571,
+      "e"
+    ],
+    [
+      0.237504,
+      "x"
+    ],
+    [
+      0.142541,
+      "e"
+    ],
+    [
+      0.158171,
+      "c"
+    ],
+    [
+      0.968722,
+      " "
+    ],
+    [
+      0.234349,
+      "s"
+    ],
+    [
+      0.161154,
+      "p"
+    ],
+    [
+      0.107996,
+      "r"
+    ],
+    [
+      0.206492,
+      "y"
+    ],
+    [
+      1.000944,
+      " "
+    ],
+    [
+      0.23674,
+      "-"
+    ],
+    [
+      0.165966,
+      "-"
+    ],
+    [
+      0.166449,
+      " "
+    ],
+    [
+      0.330554,
+      "s"
+    ],
+    [
+      0.271508,
+      "u"
+    ],
+    [
+      0.065019,
+      " "
+    ],
+    [
+      0.348633,
+      "-"
+    ],
+    [
+      0.150053,
+      "-"
+    ],
+    [
+      0.253269,
+      "l"
+    ],
+    [
+      0.150031,
+      "o"
+    ],
+    [
+      0.164423,
+      "g"
+    ],
+    [
+      0.087528,
+      "i"
+    ],
+    [
+      0.189466,
+      "n"
+    ],
+    [
+      0.064964,
+      " "
+    ],
+    [
+      0.419182,
+      "u"
+    ],
+    [
+      1.013618,
+      "b"
+    ],
+    [
+      0.318334,
+      "u"
+    ],
+    [
+      0.166004,
+      "n"
+    ],
+    [
+      0.157486,
+      "t"
+    ],
+    [
+      0.110447,
+      "u"
+    ],
+    [
+      0.383826,
+      "\r\n"
+    ],
+    [
+      0.120766,
+      "To run a command as administrator (user \"root\"), use \"sudo <command>\".\r\nSee \"man sudo_root\" for details.\r\n\r\n"
+    ],
+    [
+      0.04402,
+      "\u001b]0;ubuntu@spry: ~\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      8.050505,
+      "# Best way to install latest nim is to use choosenim!"
+    ],
+    [
+      0.543778,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      "\u001b]0;ubuntu@spry: ~\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      5.095534,
+      "# Choosenim presumes that gcc is installed though..."
+    ],
+    [
+      0.74251,
+      "\r\n\u001b]0;ubuntu@spry: ~\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      2.178734,
+      "s"
+    ],
+    [
+      0.135571,
+      "u"
+    ],
+    [
+      0.108381,
+      "d"
+    ],
+    [
+      0.136204,
+      "o"
+    ],
+    [
+      0.063898,
+      " "
+    ],
+    [
+      0.193542,
+      "a"
+    ],
+    [
+      0.141901,
+      "p"
+    ],
+    [
+      0.175939,
+      "t"
+    ],
+    [
+      0.215925,
+      " "
+    ],
+    [
+      0.204723,
+      "i"
+    ],
+    [
+      0.173301,
+      "n"
+    ],
+    [
+      0.085468,
+      "s"
+    ],
+    [
+      0.054778,
+      "t"
+    ],
+    [
+      0.101625,
+      "a"
+    ],
+    [
+      0.112309,
+      "l"
+    ],
+    [
+      0.149008,
+      "l"
+    ],
+    [
+      0.0642,
+      " "
+    ],
+    [
+      0.698637,
+      "g"
+    ],
+    [
+      0.069921,
+      "c"
+    ],
+    [
+      0.189035,
+      "c"
+    ],
+    [
+      0.153176,
+      "\r\n"
+    ],
+    [
+      0.105911,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.008489,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.0039,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.062773,
+      "\rReading package lists... 47%\r"
+    ],
+    [
+      0.000152,
+      "\rReading package lists... 47%\r"
+    ],
+    [
+      0.010888,
+      "\rReading package lists... 70%\r"
+    ],
+    [
+      8.6e-05,
+      "\rReading package lists... 70%\r"
+    ],
+    [
+      0.000887,
+      "\rReading package lists... 71%\r\rReading package lists... 71%\r"
+    ],
+    [
+      0.00112,
+      "\rReading package lists... 71%\r"
+    ],
+    [
+      0.00022,
+      "\rReading package lists... 71%\r"
+    ],
+    [
+      0.013371,
+      "\rReading package lists... 80%\r\rReading package lists... 80%\r"
+    ],
+    [
+      0.003522,
+      "\rReading package lists... 86%\r\rReading package lists... 86%\r"
+    ],
+    [
+      0.000484,
+      "\rReading package lists... 86%\r\rReading package lists... 86%\r"
+    ],
+    [
+      0.001539,
+      "\rReading package lists... 86%\r\rReading package lists... 86%\r"
+    ],
+    [
+      0.006416,
+      "\rReading package lists... 92%\r\rReading package lists... 92%\r"
+    ],
+    [
+      0.002001,
+      "\rReading package lists... 96%\r\rReading package lists... 96%\r"
+    ],
+    [
+      0.000326,
+      "\rReading package lists... 96%\r\rReading package lists... 96%\r"
+    ],
+    [
+      0.004617,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000325,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.009123,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.005145,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.002802,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.011038,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r"
+    ],
+    [
+      0.004711,
+      "\rReading state information... 25%\r\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.011119,
+      "The following additional packages will be installed:\r\n  binutils cpp cpp-6 gcc-6 libasan3 libatomic1 libc-dev-bin libc6-dev libcc1-0\r\n  libcilkrts5 libgcc-6-dev libgomp1 libisl15 libitm1 liblsan0 libmpc3 libmpx2\r\n"
+    ],
+    [
+      0.000359,
+      "  libquadmath0 libtsan0 libubsan0 linux-libc-dev manpages-dev\r\n"
+    ],
+    [
+      4e-05,
+      "Suggested packages:\r\n  binutils-doc cpp-doc gcc-6-locales gcc-multilib make autoconf automake\r\n  libtool flex bison gdb gcc-doc gcc-6-multilib gcc-6-doc libgcc1-dbg\r\n  libgomp1-dbg libitm1-dbg libatomic1-dbg libasan3-dbg liblsan0-dbg\r\n  libtsan0-dbg libubsan0-dbg libcilkrts5-dbg libmpx2-dbg libquadmath0-dbg\r\n  glibc-doc\r\n"
+    ],
+    [
+      0.01187,
+      "The following NEW packages will be installed:\r\n  binutils cpp cpp-6 gcc gcc-6 libasan3 libatomic1 libc-dev-bin libc6-dev\r\n  libcc1-0 libcilkrts5 libgcc-6-dev libgomp1 libisl15 libitm1 liblsan0 libmpc3\r\n"
+    ],
+    [
+      9.2e-05,
+      "  libmpx2 libquadmath0 libtsan0 libubsan0 linux-libc-dev manpages-dev\r\n"
+    ],
+    [
+      0.000386,
+      "0 upgraded, 23 newly installed, 0 to remove and 0 not upgraded.\r\nNeed to get 25.7 MB of archives.\r\nAfter this operation, 109 MB of additional disk space will be used.\r\n"
+    ],
+    [
+      8.5e-05,
+      "Do you want to continue? [Y/n] "
+    ],
+    [
+      0.626018,
+      "\r\n"
+    ],
+    [
+      0.006413,
+      "\u001b[33m\r0% [Working]\u001b[0m"
+    ],
+    [
+      0.104886,
+      "\r            \rGet:1 http://archive.ubuntu.com/ubuntu zesty/main amd64 libmpc3 amd64 1.0.3-1 [39.7 kB]\r\n\u001b[33m\r0% [1 libmpc3 4,063 B/39.7 kB 10%]\u001b[0m"
+    ],
+    [
+      0.042746,
+      "\u001b[33m\r                                  \r1% [Working]\u001b[0m"
+    ],
+    [
+      0.042797,
+      "\r            \rGet:2 http://archive.ubuntu.com/ubuntu zesty/main amd64 binutils amd64 2.28-3ubuntu1 [2,439 kB]\r\n\u001b[33m\r1% [2 binutils 2,611 B/2,439 kB 0%]\u001b[0m"
+    ],
+    [
+      0.500767,
+      "\u001b[33m\r6% [2 binutils 1,726 kB/2,439 kB 71%]\u001b[0m"
+    ],
+    [
+      0.208999,
+      "\u001b[33m\r                                     \r9% [Working]\u001b[0m"
+    ],
+    [
+      0.098433,
+      "\r            \rGet:3 http://archive.ubuntu.com/ubuntu zesty/main amd64 libisl15 amd64 0.18-1 [545 kB]\r\n\u001b[33m\r9% [3 libisl15 2,613 B/545 kB 0%]\u001b[0m"
+    ],
+    [
+      0.14665,
+      "\u001b[33m\r                                 \r12% [Working]\u001b[0m"
+    ],
+    [
+      0.055736,
+      "\r             \rGet:4 http://archive.ubuntu.com/ubuntu zesty/main amd64 cpp-6 amd64 6.3.0-12ubuntu2 [6,613 kB]\r\n\u001b[33m\r12% [4 cpp-6 2,611 B/6,613 kB 0%]\u001b[0m"
+    ],
+    [
+      0.501007,
+      "\u001b[33m\r18% [4 cpp-6 2,014 kB/6,613 kB 30%]\u001b[0m"
+    ],
+    [
+      0.500724,
+      "\u001b[33m\r25% [4 cpp-6 4,254 kB/6,613 kB 64%]\u001b[0m"
+    ],
+    [
+      0.500664,
+      "\u001b[33m\r32% [4 cpp-6 6,514 kB/6,613 kB 99%]\u001b[0m"
+    ],
+    [
+      0.016672,
+      "\u001b[33m\r                                   \r34% [Working]\u001b[0m"
+    ],
+    [
+      0.066425,
+      "\r             \rGet:5 http://archive.ubuntu.com/ubuntu zesty/main amd64 cpp amd64 4:6.3.0-2ubuntu1 [27.5 kB]\r\n\u001b[33m\r34% [5 cpp 2,615 B/27.5 kB 9%]\u001b[0m"
+    ],
+    [
+      0.003439,
+      "\u001b[33m\r                              \r34% [Working]\u001b[0m"
+    ],
+    [
+      0.040955,
+      "\r             \rGet:6 http://archive.ubuntu.com/ubuntu zesty/main amd64 libcc1-0 amd64 6.3.0-12ubuntu2 [31.1 kB]\r\n\u001b[33m\r34% [6 libcc1-0 2,615 B/31.1 kB 8%]\u001b[0m"
+    ],
+    [
+      0.00613,
+      "\u001b[33m\r                                   \r35% [Working]\u001b[0m"
+    ],
+    [
+      0.040669,
+      "\r             \rGet:7 http://archive.ubuntu.com/ubuntu zesty/main amd64 libgomp1 amd64 6.3.0-12ubuntu2 [74.0 kB]\r\n\u001b[33m\r35% [7 libgomp1 2,380 B/74.0 kB 3%]\u001b[0m"
+    ],
+    [
+      0.009182,
+      "\u001b[33m\r                                   \r37% [Working]\u001b[0m"
+    ],
+    [
+      0.044071,
+      "\r             \rGet:8 http://archive.ubuntu.com/ubuntu zesty/main amd64 libitm1 amd64 6.3.0-12ubuntu2 [28.0 kB]\r\n\u001b[33m\r37% [8 libitm1 2,615 B/28.0 kB 9%]\u001b[0m"
+    ],
+    [
+      0.003371,
+      "\u001b[33m\r                                  \r37% [Working]\u001b[0m"
+    ],
+    [
+      0.043453,
+      "\r             \rGet:9 http://archive.ubuntu.com/ubuntu zesty/main amd64 libatomic1 amd64 6.3.0-12ubuntu2 [9,168 B]\r\n\u001b[33m\r37% [9 libatomic1 2,616 B/9,168 B 29%]\u001b[0m"
+    ],
+    [
+      0.001852,
+      "\u001b[33m\r                                      \r38% [Working]\u001b[0m"
+    ],
+    [
+      0.03907,
+      "\r             \rGet:10 http://archive.ubuntu.com/ubuntu zesty/main amd64 libasan3 amd64 6.3.0-12ubuntu2 [315 kB]\r\n"
+    ],
+    [
+      0.00013,
+      "\u001b[33m\r38% [10 libasan3 2,613 B/315 kB 1%]\u001b[0m"
+    ],
+    [
+      0.138562,
+      "\u001b[33m\r                                   \r40% [Working]\u001b[0m"
+    ],
+    [
+      0.038444,
+      "\r             \rGet:11 http://archive.ubuntu.com/ubuntu zesty/main amd64 liblsan0 amd64 6.3.0-12ubuntu2 [117 kB]\r\n\u001b[33m\r40% [11 liblsan0 2,613 B/117 kB 2%]"
+    ],
+    [
+      3e-05,
+      "\u001b[0m"
+    ],
+    [
+      0.012331,
+      "\u001b[33m\r                                   \r41% [Working]\u001b[0m"
+    ],
+    [
+      0.048281,
+      "\r             \rGet:12 http://archive.ubuntu.com/ubuntu zesty/main amd64 libtsan0 amd64 6.3.0-12ubuntu2 [261 kB]\r\n"
+    ],
+    [
+      3.2e-05,
+      "\u001b[33m\r41% [12 libtsan0 2,613 B/261 kB 1%]\u001b[0m"
+    ],
+    [
+      0.142468,
+      "\u001b[33m\r                                   \r43% [Working]\u001b[0m"
+    ],
+    [
+      0.038785,
+      "\r             \rGet:13 http://archive.ubuntu.com/ubuntu zesty/main amd64 libubsan0 amd64 6.3.0-12ubuntu2 [108 kB]\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[33m\r43% [13 libubsan0 2,613 B/108 kB 2%]\u001b[0m"
+    ],
+    [
+      0.014976,
+      "\u001b[33m\r                                    \r44% [Working]\u001b[0m"
+    ],
+    [
+      0.046211,
+      "\r             \rGet:14 http://archive.ubuntu.com/ubuntu zesty/main amd64 libcilkrts5 amd64 6.3.0-12ubuntu2 [40.8 kB]\r\n\u001b[33m\r44% [14 libcilkrts5 2,615 B/40.8 kB 6%]\u001b[0m"
+    ],
+    [
+      0.007071,
+      "\u001b[33m\r                                       \r45% [Working]\u001b[0m"
+    ],
+    [
+      0.039158,
+      "\r             \rGet:15 http://archive.ubuntu.com/ubuntu zesty/main amd64 libmpx2 amd64 6.3.0-12ubuntu2 [11.5 kB]\r\n\u001b[33m\r45% [15 libmpx2 1,167 B/11.5 kB 10%]\u001b[0m"
+    ],
+    [
+      0.002941,
+      "\u001b[33m\r                                    \r46% [Working]\u001b[0m"
+    ],
+    [
+      0.041667,
+      "\r             \rGet:16 http://archive.ubuntu.com/ubuntu zesty/main amd64 libquadmath0 amd64 6.3.0-12ubuntu2 [132 kB]\r\n\u001b[33m\r46% [16 libquadmath0 2,613 B/132 kB 2%]\u001b[0m"
+    ],
+    [
+      0.014734,
+      "\u001b[33m\r                                       \r48% [Working]\u001b[0m"
+    ],
+    [
+      0.047985,
+      "\r             \rGet:17 http://archive.ubuntu.com/ubuntu zesty/main amd64 libgcc-6-dev amd64 6.3.0-12ubuntu2 [2,307 kB]\r\n\u001b[33m\r48% [17 libgcc-6-dev 2,611 B/2,307 kB 0%]\u001b[0m"
+    ],
+    [
+      0.500938,
+      "\u001b[33m\r54% [17 libgcc-6-dev 2,218 kB/2,307 kB 96%]\u001b[0m"
+    ],
+    [
+      0.017963,
+      "\u001b[33m\r                                           \r56% [Working]\u001b[0m"
+    ],
+    [
+      0.065235,
+      "\r             \rGet:18 http://archive.ubuntu.com/ubuntu zesty/main amd64 gcc-6 amd64 6.3.0-12ubuntu2 [7,209 kB]\r\n\u001b[33m\r56% [18 gcc-6 2,611 B/7,209 kB 0%]\u001b[0m"
+    ],
+    [
+      0.5007,
+      "\u001b[33m\r62% [18 gcc-6 2,060 kB/7,209 kB 29%]\u001b[0m"
+    ],
+    [
+      0.500821,
+      "\u001b[33m\r69% [18 gcc-6 4,348 kB/7,209 kB 60%]\u001b[0m"
+    ],
+    [
+      0.500529,
+      "\u001b[33m\r76% [18 gcc-6 6,659 kB/7,209 kB 92%]\u001b[0m"
+    ],
+    [
+      0.124935,
+      "\u001b[33m\r                                    \r79% [Working]\u001b[0m"
+    ],
+    [
+      0.05982,
+      "\r             \rGet:19 http://archive.ubuntu.com/ubuntu zesty/main amd64 gcc amd64 4:6.3.0-2ubuntu1 [5,188 B]\r\n\u001b[33m\r79% [19 gcc 2,018 B/5,188 B 39%]\u001b[0m"
+    ],
+    [
+      0.000585,
+      "\u001b[33m\r                                \r80% [Working]\u001b[0m"
+    ],
+    [
+      0.038687,
+      "\r             \rGet:20 http://archive.ubuntu.com/ubuntu zesty-updates/main amd64 libc-dev-bin amd64 2.24-9ubuntu2.2 [68.6 kB]\r\n\u001b[33m\r80% [20 libc-dev-bin 1,166 B/68.6 kB 2%]\u001b[0m"
+    ],
+    [
+      0.008299,
+      "\u001b[33m\r                                        \r81% [Working]\u001b[0m"
+    ],
+    [
+      0.043126,
+      "\r             \rGet:21 http://archive.ubuntu.com/ubuntu zesty-updates/main amd64 linux-libc-dev amd64 4.10.0-40.44 [898 kB]\r\n\u001b[33m\r81% [21 linux-libc-dev 2,613 B/898 kB 0%]                         3,389 kB/s 1s\u001b[0m"
+    ],
+    [
+      0.247363,
+      "\u001b[33m\r85% [Working]                                                     3,389 kB/s 1s\u001b[0m"
+    ],
+    [
+      0.057788,
+      "\r                                                                               \rGet:22 http://archive.ubuntu.com/ubuntu zesty-updates/main amd64 libc6-dev amd64 2.24-9ubuntu2.2 [2,276 kB]\r\n\u001b[33m\r85% [22 libc6-dev 2,611 B/2,276 kB 0%]                            3,389 kB/s 1s\u001b[0m"
+    ],
+    [
+      0.500905,
+      "\u001b[33m\r91% [22 libc6-dev 2,096 kB/2,276 kB 92%]                          3,389 kB/s 0s\u001b[0m"
+    ],
+    [
+      0.04286,
+      "\u001b[33m\r93% [Working]                                                     3,389 kB/s 0s\u001b[0m"
+    ],
+    [
+      0.066842,
+      "\r                                                                               \rGet:23 http://archive.ubuntu.com/ubuntu zesty/main amd64 manpages-dev all 4.09-2 [2,113 kB]\r\n\u001b[33m\r93% [23 manpages-dev 2,611 B/2,113 kB 0%]                         3,389 kB/s 0s\u001b[0m"
+    ],
+    [
+      0.500713,
+      "\u001b[33m\r95% [23 manpages-dev 877 kB/2,113 kB 42%]                         3,389 kB/s 0s\u001b[0m"
+    ],
+    [
+      0.50075,
+      "\u001b[33m\r97% [23 manpages-dev 1,530 kB/2,113 kB 72%]                       3,389 kB/s 0s\u001b[0m"
+    ],
+    [
+      0.314381,
+      "\u001b[33m\r100% [Working]                                                    3,389 kB/s 0s\u001b[0m\r                                                                               \rFetched 25.7 MB in 8s (3,113 kB/s)\r\n"
+    ],
+    [
+      0.391653,
+      "\n\u001b7\u001b[0;23r\u001b8\u001b[1A"
+    ],
+    [
+      0.180612,
+      "Selecting previously unselected package libmpc3:amd64.\r\n(Reading database ... \r"
+    ],
+    [
+      0.00607,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.002969,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.004194,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.002785,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.002691,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.003157,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.003244,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.002592,
+      "(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r"
+    ],
+    [
+      0.000254,
+      "(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r(Reading database ... 80%\r(Reading database ... 85%\r(Reading database ... 90%\r(Reading database ... 95%\r(Reading database ... 100%\r(Reading database ... 26664 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.001532,
+      "Preparing to unpack .../00-libmpc3_1.0.3-1_amd64.deb ...\r\n"
+    ],
+    [
+      7.8e-05,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [  0%]\u001b[49m\u001b[39m"
+    ],
+    [
+      0.000143,
+      " [..........................................................] \u001b8"
+    ],
+    [
+      0.004174,
+      "Unpacking libmpc3:amd64 (1.0.3-1) ...\r\n"
+    ],
+    [
+      0.029422,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [  1%]\u001b[49m\u001b[39m [#.........................................................] \u001b8"
+    ],
+    [
+      0.004052,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [  2%]\u001b[49m\u001b[39m [#.........................................................] \u001b8"
+    ],
+    [
+      0.019504,
+      "Selecting previously unselected package binutils.\r\n"
+    ],
+    [
+      0.001978,
+      "Preparing to unpack .../01-binutils_2.28-3ubuntu1_amd64.deb ...\r\n"
+    ],
+    [
+      0.004472,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [  3%]\u001b[49m\u001b[39m [##........................................................] \u001b8"
+    ],
+    [
+      0.01355,
+      "Unpacking binutils (2.28-3ubuntu1) ...\r\n"
+    ],
+    [
+      1.231975,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [  4%]\u001b[49m\u001b[39m [##........................................................] \u001b8"
+    ],
+    [
+      0.009897,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [  5%]\u001b[49m\u001b[39m [###.......................................................] \u001b8"
+    ],
+    [
+      0.049286,
+      "Selecting previously unselected package libisl15:amd64.\r\n"
+    ],
+    [
+      0.001867,
+      "Preparing to unpack .../02-libisl15_0.18-1_amd64.deb ...\r\n"
+    ],
+    [
+      3.4e-05,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [  6%]\u001b[49m\u001b[39m [###.......................................................] \u001b8"
+    ],
+    [
+      0.014014,
+      "Unpacking libisl15:amd64 (0.18-1) ...\r\n"
+    ],
+    [
+      0.10114,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [  7%]\u001b[49m\u001b[39m [####......................................................] \u001b8"
+    ],
+    [
+      0.024933,
+      "Selecting previously unselected package cpp-6.\r\n"
+    ],
+    [
+      0.001887,
+      "Preparing to unpack .../03-cpp-6_6.3.0-12ubuntu2_amd64.deb ...\r\n\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [  8%]\u001b[49m\u001b[39m [####......................................................] \u001b8"
+    ],
+    [
+      0.008739,
+      "Unpacking cpp-6 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.858501,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [  9%]\u001b[49m\u001b[39m [#####.....................................................] \u001b8"
+    ],
+    [
+      0.015674,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 10%]\u001b[49m\u001b[39m [######....................................................] \u001b8"
+    ],
+    [
+      0.04974,
+      "Selecting previously unselected package cpp.\r\n"
+    ],
+    [
+      0.001905,
+      "Preparing to unpack .../04-cpp_4%3a6.3.0-2ubuntu1_amd64.deb ...\r\n\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 11%]\u001b[49m\u001b[39m"
+    ],
+    [
+      2.5e-05,
+      " [######....................................................] \u001b8"
+    ],
+    [
+      0.014055,
+      "Unpacking cpp (4:6.3.0-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.05936,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 12%]\u001b[49m\u001b[39m [#######...................................................] \u001b8"
+    ],
+    [
+      0.077761,
+      "Selecting previously unselected package libcc1-0:amd64.\r\n"
+    ],
+    [
+      0.00192,
+      "Preparing to unpack .../05-libcc1-0_6.3.0-12ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      0.000119,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 13%]\u001b[49m\u001b[39m [########..................................................] \u001b8"
+    ],
+    [
+      0.018812,
+      "Unpacking libcc1-0:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.037606,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 14%]\u001b[49m\u001b[39m [########..................................................] \u001b8"
+    ],
+    [
+      0.015312,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 15%]\u001b[49m\u001b[39m"
+    ],
+    [
+      6.2e-05,
+      " [#########.................................................] \u001b8"
+    ],
+    [
+      0.059663,
+      "Selecting previously unselected package libgomp1:amd64.\r\n"
+    ],
+    [
+      0.001923,
+      "Preparing to unpack .../06-libgomp1_6.3.0-12ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      2.8e-05,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 16%]\u001b[49m\u001b[39m"
+    ],
+    [
+      7.7e-05,
+      " [#########.................................................] \u001b8"
+    ],
+    [
+      0.014495,
+      "Unpacking libgomp1:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.048742,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 17%]\u001b[49m\u001b[39m [#########.................................................] \u001b8"
+    ],
+    [
+      0.012707,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 18%]\u001b[49m\u001b[39m [##########................................................] \u001b8"
+    ],
+    [
+      0.057695,
+      "Selecting previously unselected package libitm1:amd64.\r\n"
+    ],
+    [
+      0.001781,
+      "Preparing to unpack .../07-libitm1_6.3.0-12ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      0.020134,
+      "Unpacking libitm1:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.041442,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 19%]\u001b[49m\u001b[39m [###########...............................................] \u001b8"
+    ],
+    [
+      0.012568,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 20%]\u001b[49m\u001b[39m [############..............................................] \u001b8"
+    ],
+    [
+      0.041889,
+      "Selecting previously unselected package libatomic1:amd64.\r\n"
+    ],
+    [
+      0.001813,
+      "Preparing to unpack .../08-libatomic1_6.3.0-12ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      0.000165,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 21%]\u001b[49m\u001b[39m [############..............................................] \u001b8"
+    ],
+    [
+      0.008167,
+      "Unpacking libatomic1:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.031683,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 22%]\u001b[49m\u001b[39m [#############.............................................] \u001b8"
+    ],
+    [
+      0.020372,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 23%]\u001b[49m\u001b[39m [#############.............................................] \u001b8"
+    ],
+    [
+      0.051935,
+      "Selecting previously unselected package libasan3:amd64.\r\n"
+    ],
+    [
+      0.001935,
+      "Preparing to unpack .../09-libasan3_6.3.0-12ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      0.000385,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 24%]\u001b[49m\u001b[39m [##############............................................] \u001b8"
+    ],
+    [
+      0.008595,
+      "Unpacking libasan3:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.057522,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 25%]\u001b[49m\u001b[39m [##############............................................] \u001b8"
+    ],
+    [
+      0.028716,
+      "Selecting previously unselected package liblsan0:amd64.\r\nPreparing to unpack .../10-liblsan0_6.3.0-12ubuntu2_amd64.deb ...\r\n\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 26%]\u001b[49m\u001b[39m"
+    ],
+    [
+      0.001424,
+      " [###############...........................................] \u001b8"
+    ],
+    [
+      0.01301,
+      "Unpacking liblsan0:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.029908,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 27%]\u001b[49m\u001b[39m [################..........................................] \u001b8"
+    ],
+    [
+      0.004019,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 28%]\u001b[49m\u001b[39m [################..........................................] \u001b8"
+    ],
+    [
+      0.031764,
+      "Selecting previously unselected package libtsan0:amd64.\r\n"
+    ],
+    [
+      0.001876,
+      "Preparing to unpack .../11-libtsan0_6.3.0-12ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      9.5e-05,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 29%]\u001b[49m\u001b[39m [#################.........................................] \u001b8"
+    ],
+    [
+      0.00406,
+      "Unpacking libtsan0:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.044409,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 30%]\u001b[49m\u001b[39m [#################.........................................] "
+    ],
+    [
+      8.5e-05,
+      "\u001b8"
+    ],
+    [
+      0.004868,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 31%]\u001b[49m\u001b[39m [##################........................................] \u001b8"
+    ],
+    [
+      0.025844,
+      "Selecting previously unselected package libubsan0:amd64.\r\n"
+    ],
+    [
+      0.001805,
+      "Preparing to unpack .../12-libubsan0_6.3.0-12ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      0.004664,
+      "Unpacking libubsan0:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.023644,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 32%]\u001b[49m\u001b[39m [###################.......................................] \u001b8"
+    ],
+    [
+      0.004757,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 33%]\u001b[49m\u001b[39m [###################.......................................] \u001b8"
+    ],
+    [
+      0.024256,
+      "Selecting previously unselected package libcilkrts5:amd64.\r\n"
+    ],
+    [
+      0.001888,
+      "Preparing to unpack .../13-libcilkrts5_6.3.0-12ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      3e-05,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 34%]\u001b[49m\u001b[39m [###################.......................................] \u001b8"
+    ],
+    [
+      0.011287,
+      "Unpacking libcilkrts5:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.023538,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 35%]\u001b[49m\u001b[39m [####################......................................] \u001b8"
+    ],
+    [
+      0.004888,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 36%]\u001b[49m\u001b[39m [#####################.....................................] \u001b8"
+    ],
+    [
+      0.027796,
+      "Selecting previously unselected package libmpx2:amd64.\r\n"
+    ],
+    [
+      0.001889,
+      "Preparing to unpack .../14-libmpx2_6.3.0-12ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 37%]\u001b[49m\u001b[39m [#####################.....................................] "
+    ],
+    [
+      0.000303,
+      "\u001b8"
+    ],
+    [
+      0.008809,
+      "Unpacking libmpx2:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.034525,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 38%]\u001b[49m\u001b[39m [######################....................................] \u001b8"
+    ],
+    [
+      0.021334,
+      "Selecting previously unselected package libquadmath0:amd64.\r\n"
+    ],
+    [
+      0.001669,
+      "Preparing to unpack .../15-libquadmath0_6.3.0-12ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      0.000326,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 39%]\u001b[49m\u001b[39m [#######################...................................] \u001b8"
+    ],
+    [
+      0.004815,
+      "Unpacking libquadmath0:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.027964,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 40%]\u001b[49m\u001b[39m [#######################...................................] \u001b8"
+    ],
+    [
+      0.004132,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 41%]\u001b[49m\u001b[39m [########################..................................] \u001b8"
+    ],
+    [
+      0.016407,
+      "Selecting previously unselected package libgcc-6-dev:amd64.\r\n"
+    ],
+    [
+      0.002375,
+      "Preparing to unpack .../16-libgcc-6-dev_6.3.0-12ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      3.5e-05,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 42%]\u001b[49m\u001b[39m [########################..................................] \u001b8"
+    ],
+    [
+      0.004886,
+      "Unpacking libgcc-6-dev:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.878668,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 43%]\u001b[49m\u001b[39m [#########################.................................] \u001b8"
+    ],
+    [
+      0.0268,
+      "Selecting previously unselected package gcc-6.\r\n"
+    ],
+    [
+      0.002033,
+      "Preparing to unpack .../17-gcc-6_6.3.0-12ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      0.000141,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 44%]\u001b[49m\u001b[39m [##########################................................] "
+    ],
+    [
+      0.000126,
+      "\u001b8"
+    ],
+    [
+      0.005597,
+      "Unpacking gcc-6 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      1.18805,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 45%]\u001b[49m\u001b[39m [##########################................................] \u001b8"
+    ],
+    [
+      0.005442,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 46%]\u001b[49m\u001b[39m [##########################................................] \u001b8"
+    ],
+    [
+      0.030394,
+      "Selecting previously unselected package gcc.\r\n"
+    ],
+    [
+      0.001951,
+      "Preparing to unpack .../18-gcc_4%3a6.3.0-2ubuntu1_amd64.deb ...\r\n\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 47%]\u001b[49m\u001b[39m [###########################...............................] \u001b8"
+    ],
+    [
+      0.006471,
+      "Unpacking gcc (4:6.3.0-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.021632,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 48%]\u001b[49m\u001b[39m [############################..............................] \u001b8"
+    ],
+    [
+      0.004451,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 49%]\u001b[49m\u001b[39m [############################..............................] \u001b8"
+    ],
+    [
+      0.015565,
+      "Selecting previously unselected package libc-dev-bin.\r\n"
+    ],
+    [
+      0.002214,
+      "Preparing to unpack .../19-libc-dev-bin_2.24-9ubuntu2.2_amd64.deb ...\r\n\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 50%]\u001b[49m\u001b[39m [#############################.............................] \u001b8"
+    ],
+    [
+      0.005226,
+      "Unpacking libc-dev-bin (2.24-9ubuntu2.2) ...\r\n"
+    ],
+    [
+      0.05696,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 51%]\u001b[49m\u001b[39m [#############################.............................] \u001b8"
+    ],
+    [
+      0.017121,
+      "Selecting previously unselected package linux-libc-dev:amd64.\r\n"
+    ],
+    [
+      0.001762,
+      "Preparing to unpack .../20-linux-libc-dev_4.10.0-40.44_amd64.deb ...\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 52%]\u001b[49m\u001b[39m [##############################............................] \u001b8"
+    ],
+    [
+      0.004258,
+      "Unpacking linux-libc-dev:amd64 (4.10.0-40.44) ...\r\n"
+    ],
+    [
+      2.988723,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 53%]\u001b[49m\u001b[39m [###############################...........................] \u001b8"
+    ],
+    [
+      0.009414,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 54%]\u001b[49m\u001b[39m [###############################...........................] \u001b8"
+    ],
+    [
+      0.032098,
+      "Selecting previously unselected package libc6-dev:amd64.\r\n"
+    ],
+    [
+      0.001969,
+      "Preparing to unpack .../21-libc6-dev_2.24-9ubuntu2.2_amd64.deb ...\r\n\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 55%]\u001b[49m\u001b[39m [################################..........................] \u001b8"
+    ],
+    [
+      0.008433,
+      "Unpacking libc6-dev:amd64 (2.24-9ubuntu2.2) ...\r\n"
+    ],
+    [
+      2.914863,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 56%]\u001b[49m\u001b[39m [################################..........................] \u001b8"
+    ],
+    [
+      0.039984,
+      "Selecting previously unselected package manpages-dev.\r\n"
+    ],
+    [
+      0.001985,
+      "Preparing to unpack .../22-manpages-dev_4.09-2_all.deb ...\r\n"
+    ],
+    [
+      0.000275,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 57%]\u001b[49m\u001b[39m [#################################.........................] \u001b8"
+    ],
+    [
+      0.013254,
+      "Unpacking manpages-dev (4.09-2) ...\r\n"
+    ],
+    [
+      4.796267,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 58%]\u001b[49m\u001b[39m [##################################........................] \u001b8"
+    ],
+    [
+      0.010228,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 59%]\u001b[49m\u001b[39m [##################################........................] \u001b8"
+    ],
+    [
+      0.038643,
+      "Setting up libquadmath0:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.013144,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 60%]\u001b[49m\u001b[39m [###################################.......................] \u001b8"
+    ],
+    [
+      0.013054,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 61%]\u001b[49m\u001b[39m [###################################.......................] \u001b8"
+    ],
+    [
+      0.008074,
+      "Setting up libgomp1:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.008621,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 62%]\u001b[49m\u001b[39m [####################################......................] \u001b8"
+    ],
+    [
+      0.022408,
+      "Setting up libatomic1:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.013646,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 63%]\u001b[49m\u001b[39m [#####################################.....................] \u001b8"
+    ],
+    [
+      0.007985,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 64%]\u001b[49m\u001b[39m [#####################################.....................] \u001b8"
+    ],
+    [
+      0.008155,
+      "Setting up libcc1-0:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.012799,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 65%]\u001b[49m\u001b[39m [######################################....................] \u001b8"
+    ],
+    [
+      0.008394,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 66%]\u001b[49m\u001b[39m [######################################....................] \u001b8"
+    ],
+    [
+      0.014305,
+      "Setting up libasan3:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.008344,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 67%]\u001b[49m\u001b[39m [#######################################...................] \u001b8"
+    ],
+    [
+      0.019328,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 68%]\u001b[49m\u001b[39m [#######################################...................] \u001b8"
+    ],
+    [
+      0.013086,
+      "Setting up libcilkrts5:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.027652,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 69%]\u001b[49m\u001b[39m [########################################..................] "
+    ],
+    [
+      4e-05,
+      "\u001b8"
+    ],
+    [
+      0.008328,
+      "Setting up libubsan0:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.00831,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 70%]\u001b[49m\u001b[39m [#########################################.................] \u001b8"
+    ],
+    [
+      0.008146,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 71%]\u001b[49m\u001b[39m [#########################################.................] \u001b8"
+    ],
+    [
+      0.013454,
+      "Setting up libtsan0:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.009028,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 72%]\u001b[49m\u001b[39m [##########################################................] \u001b8"
+    ],
+    [
+      0.014863,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 73%]\u001b[49m\u001b[39m [##########################################................] \u001b8"
+    ],
+    [
+      0.008704,
+      "Setting up linux-libc-dev:amd64 (4.10.0-40.44) ...\r\n"
+    ],
+    [
+      0.014446,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 74%]\u001b[49m\u001b[39m [###########################################...............] \u001b8"
+    ],
+    [
+      0.014702,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 75%]\u001b[49m\u001b[39m [###########################################...............] \u001b8"
+    ],
+    [
+      0.008428,
+      "Setting up liblsan0:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.01658,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 76%]\u001b[49m\u001b[39m [############################################..............] \u001b8"
+    ],
+    [
+      0.008037,
+      "Setting up libmpx2:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.00861,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 77%]\u001b[49m\u001b[39m [#############################################.............] \u001b8"
+    ],
+    [
+      0.007999,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 78%]\u001b[49m\u001b[39m [#############################################.............] \u001b8"
+    ],
+    [
+      0.01432,
+      "Setting up libisl15:amd64 (0.18-1) ...\r\n"
+    ],
+    [
+      0.008456,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 79%]\u001b[49m\u001b[39m [##############################################............] \u001b8"
+    ],
+    [
+      0.008001,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 80%]\u001b[49m\u001b[39m [##############################################............] \u001b8"
+    ],
+    [
+      0.00831,
+      "Processing triggers for libc-bin (2.24-9ubuntu2.2) ...\r\n"
+    ],
+    [
+      0.32847,
+      "Processing triggers for man-db (2.7.6.1-2) ...\r\n"
+    ],
+    [
+      1.564981,
+      "Setting up libmpc3:amd64 (1.0.3-1) ...\r\n"
+    ],
+    [
+      0.0195,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 81%]\u001b[49m\u001b[39m [###############################################...........] \u001b8"
+    ],
+    [
+      0.05632,
+      "Setting up binutils (2.28-3ubuntu1) ...\r\n"
+    ],
+    [
+      0.014328,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 82%]\u001b[49m\u001b[39m [################################################..........] \u001b8"
+    ],
+    [
+      0.008274,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 83%]\u001b[49m\u001b[39m [################################################..........] \u001b8"
+    ],
+    [
+      0.008177,
+      "Setting up cpp-6 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.018779,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 84%]\u001b[49m\u001b[39m [#################################################.........] \u001b8"
+    ],
+    [
+      0.01342,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 85%]\u001b[49m\u001b[39m [#################################################.........] \u001b8"
+    ],
+    [
+      0.008453,
+      "Setting up libc-dev-bin (2.24-9ubuntu2.2) ...\r\n"
+    ],
+    [
+      0.008474,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 86%]\u001b[49m\u001b[39m [##################################################........] \u001b8"
+    ],
+    [
+      0.008742,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 87%]\u001b[49m\u001b[39m [##################################################........] \u001b8"
+    ],
+    [
+      0.008172,
+      "Setting up manpages-dev (4.09-2) ...\r\n"
+    ],
+    [
+      0.022449,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 88%]\u001b[49m\u001b[39m [###################################################.......] \u001b8"
+    ],
+    [
+      0.013285,
+      "Setting up libc6-dev:amd64 (2.24-9ubuntu2.2) ...\r\n"
+    ],
+    [
+      0.013354,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 89%]\u001b[49m\u001b[39m [####################################################......] \u001b8"
+    ],
+    [
+      0.010728,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 90%]\u001b[49m\u001b[39m [####################################################......] \u001b8"
+    ],
+    [
+      0.008286,
+      "Setting up libitm1:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.008604,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 91%]\u001b[49m\u001b[39m [#####################################################.....] \u001b8"
+    ],
+    [
+      0.012753,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 92%]\u001b[49m\u001b[39m [#####################################################.....] \u001b8"
+    ],
+    [
+      0.010558,
+      "Setting up cpp (4:6.3.0-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.005757,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 93%]\u001b[49m\u001b[39m [#####################################################.....] \u001b8"
+    ],
+    [
+      0.024911,
+      "Setting up libgcc-6-dev:amd64 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.008074,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 94%]\u001b[49m\u001b[39m [######################################################....] \u001b8"
+    ],
+    [
+      0.013023,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 95%]\u001b[49m\u001b[39m [#######################################################...] \u001b8"
+    ],
+    [
+      0.01261,
+      "Setting up gcc-6 (6.3.0-12ubuntu2) ...\r\n"
+    ],
+    [
+      0.012775,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 96%]\u001b[49m\u001b[39m [########################################################..] \u001b8"
+    ],
+    [
+      0.014515,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 97%]\u001b[49m\u001b[39m [########################################################..] \u001b8"
+    ],
+    [
+      0.008173,
+      "Setting up gcc (4:6.3.0-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.014819,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 98%]\u001b[49m\u001b[39m [#########################################################.] \u001b8"
+    ],
+    [
+      0.029831,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 99%]\u001b[49m\u001b[39m [#########################################################.] \u001b8"
+    ],
+    [
+      0.020978,
+      "Processing triggers for libc-bin (2.24-9ubuntu2.2) ...\r\n"
+    ],
+    [
+      0.191172,
+      "\r\n\u001b7\u001b[0;24r\u001b8\u001b[1A\u001b[J"
+    ],
+    [
+      0.525238,
+      "\u001b]0;ubuntu@spry: ~\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      1.763973,
+      "# Now we can do the dance!"
+    ],
+    [
+      1.267105,
+      "\r\n\u001b]0;ubuntu@spry: ~\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      5.46428,
+      "curl https://nim-lang.org/choosenim/init.sh -sSf | sh"
+    ],
+    [
+      2.813901,
+      "\r\n"
+    ],
+    [
+      0.903849,
+      "choosenim-init: Downloading choosenim-0.3.0_linux_amd64\r\n"
+    ],
+    [
+      2.516445,
+      "\u001b[33m\u001b[1m    Prompt: \u001b[0m\u001b[33m\u001b[0mCan choosenim record and send anonymised telemetry data? [y/n]\r\n\u001b[33m\u001b[1m        ... \u001b[0m\u001b[33m\u001b[0mAnonymous aggregate user analytics allow us to prioritise\r\n\u001b[33m\u001b[1m        ... \u001b[0m\u001b[33m\u001b[0mfixes and features based on how, where and when people use Nim.\r\n\u001b[33m\u001b[1m        ... \u001b[0m\u001b[33m\u001b[0mFor more details see: https://goo.gl/NzUEPf.\r\n\u001b[33m\u001b[1m    Answer: \u001b[0m\u001b[33m\u001b[0m"
+    ],
+    [
+      1.871969,
+      "y"
+    ],
+    [
+      0.336018,
+      "\r\n"
+    ],
+    [
+      0.813314,
+      "\u001b[36m\u001b[1mDownloading \u001b[0m\u001b[36m\u001b[0mNim 0.17.2 from nim-lang.org\r\n"
+    ],
+    [
+      0.121699,
+      "\u001b[2K\u001b[0G[                                                  ] 0.09797% 4kb/s"
+    ],
+    [
+      0.915625,
+      "\u001b[2K\u001b[0G[##################################################] 100.0% 0kb/s\r\n"
+    ],
+    [
+      0.560707,
+      "\u001b[36m\u001b[1m Extracting \u001b[0m\u001b[36m\u001b[0mnim-0.17.2.tar.xz\r\n"
+    ],
+    [
+      8.061423,
+      "\u001b[36m\u001b[1m   Building \u001b[0m\u001b[36m\u001b[0mNim 0.17.2\r\n"
+    ],
+    [
+      53.091676,
+      "\u001b[36m\u001b[1m   Building \u001b[0m\u001b[36m\u001b[0mtools (nimble, nimgrep, nimsuggest)\r\n"
+    ],
+    [
+      96.82301,
+      "\u001b[36m\u001b[1m  Installed \u001b[0m\u001b[36m\u001b[0mcomponent 'nim'\r\n\u001b[33m\u001b[1m      Hint: \u001b[0m\u001b[33m\u001b[0mBinary 'nim' isn't in your PATH. Add '/home/ubuntu/.nimble/bin' to your PATH.\r\n"
+    ],
+    [
+      0.000805,
+      "\u001b[36m\u001b[1m  Installed \u001b[0m\u001b[36m\u001b[0mcomponent 'nimble'\r\n"
+    ],
+    [
+      0.000697,
+      "\u001b[33m\u001b[1m      Hint: \u001b[0m\u001b[33m\u001b[0mBinary 'nimble' isn't in your PATH. Add '/home/ubuntu/.nimble/bin' to your PATH.\r\n"
+    ],
+    [
+      0.000673,
+      "\u001b[36m\u001b[1m  Installed \u001b[0m\u001b[36m\u001b[0mcomponent 'nimgrep'\r\n\u001b[33m\u001b[1m      Hint: \u001b[0m\u001b[33m\u001b[0mBinary 'nimgrep' isn't in your PATH. Add '/home/ubuntu/.nimble/bin' to your PATH.\r\n"
+    ],
+    [
+      0.001059,
+      "\u001b[36m\u001b[1m  Installed \u001b[0m\u001b[36m\u001b[0mcomponent 'nimsuggest'\r\n\u001b[33m\u001b[1m      Hint: \u001b[0m\u001b[33m\u001b[0mBinary 'nimsuggest' isn't in your PATH. Add '/home/ubuntu/.nimble/bin' to your PATH.\r\n\u001b[32m\u001b[1m   Switched \u001b[0m\u001b[32m\u001b[0mto Nim 0.17.2\r\n"
+    ],
+    [
+      0.072854,
+      "choosenim-init: ChooseNim installed in /home/ubuntu/.nimble/bin\r\nchoosenim-init: You must now ensure that the Nimble bin dir is in your PATH.\r\nchoosenim-init: Place the following line in the ~/.profile or ~/.bashrc file.\r\nchoosenim-init:     export PATH=/home/ubuntu/.nimble/bin:$PATH\r\n"
+    ],
+    [
+      0.005323,
+      "\u001b]0;ubuntu@spry: ~\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      9.778063,
+      "export PATH=/home/ubuntu/.nimble/bin:$PATH"
+    ],
+    [
+      1.593115,
+      "\r\n"
+    ],
+    [
+      0.001344,
+      "\u001b]0;ubuntu@spry: ~\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      7.22666,
+      "n"
+    ],
+    [
+      0.190423,
+      "i"
+    ],
+    [
+      0.149631,
+      "m"
+    ],
+    [
+      0.065047,
+      " "
+    ],
+    [
+      0.228484,
+      "-"
+    ],
+    [
+      0.133973,
+      "-"
+    ],
+    [
+      0.35575,
+      "v"
+    ],
+    [
+      0.205588,
+      "e"
+    ],
+    [
+      0.063277,
+      "r"
+    ],
+    [
+      0.148144,
+      "s"
+    ],
+    [
+      0.120334,
+      "i"
+    ],
+    [
+      0.150538,
+      "o"
+    ],
+    [
+      0.172656,
+      "n"
+    ],
+    [
+      0.312193,
+      "\r\n"
+    ],
+    [
+      0.01684,
+      "Nim Compiler Version 0.17.2 (2017-09-07) [Linux: amd64]\r\nCopyright (c) 2006-2017 by Andreas Rumpf\r\n\r\ngit hash: 811fbdafd958443ddac98ad58c77245860b38620\r\nactive boot switches: -d:release\r\n"
+    ],
+    [
+      0.000449,
+      "\u001b]0;ubuntu@spry: ~\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      1.200436,
+      "#"
+    ],
+    [
+      0.136141,
+      " "
+    ],
+    [
+      0.228417,
+      "O"
+    ],
+    [
+      0.164159,
+      "k"
+    ],
+    [
+      0.198328,
+      ","
+    ],
+    [
+      0.072619,
+      " "
+    ],
+    [
+      0.241766,
+      "N"
+    ],
+    [
+      0.157622,
+      "i"
+    ],
+    [
+      0.141445,
+      "m"
+    ],
+    [
+      0.064768,
+      " "
+    ],
+    [
+      0.17967,
+      "i"
+    ],
+    [
+      0.484573,
+      "s"
+    ],
+    [
+      0.145956,
+      " "
+    ],
+    [
+      0.41727,
+      "w"
+    ],
+    [
+      0.080802,
+      "o"
+    ],
+    [
+      0.100505,
+      "r"
+    ],
+    [
+      0.03175,
+      "k"
+    ],
+    [
+      0.181078,
+      "i"
+    ],
+    [
+      0.149726,
+      "n"
+    ],
+    [
+      0.093761,
+      "g"
+    ],
+    [
+      0.267229,
+      "!"
+    ],
+    [
+      0.328273,
+      "\r\n\u001b]0;ubuntu@spry: ~\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      7.321425,
+      "# Now before building spry we need libsnappy!"
+    ],
+    [
+      1.369091,
+      "\r\n"
+    ],
+    [
+      0.000835,
+      "\u001b]0;ubuntu@spry: ~\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      6.167966,
+      "sudo apt install libsnappy1v5"
+    ],
+    [
+      0.737355,
+      "\r\n"
+    ],
+    [
+      0.106165,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.01265,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.009186,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.007937,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r"
+    ],
+    [
+      4.3e-05,
+      "\rReading state information... 4%\r"
+    ],
+    [
+      0.000161,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.022322,
+      "The following NEW packages will be installed:\r\n  libsnappy1v5\r\n"
+    ],
+    [
+      0.00037,
+      "0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.\r\n"
+    ],
+    [
+      2.9e-05,
+      "Need to get 16.0 kB of archives.\r\nAfter this operation, 82.9 kB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.003115,
+      "\u001b[33m\r0% [Working]\u001b[0m"
+    ],
+    [
+      0.256456,
+      "\r            \r"
+    ],
+    [
+      0.000964,
+      "Get:1 http://archive.ubuntu.com/ubuntu zesty/main amd64 libsnappy1v5 amd64 1.1.4-1 [16.0 kB]\r\n\u001b[33m\r13% [1 libsnappy1v5 2,615 B/16.0 kB 16%]\u001b[0m"
+    ],
+    [
+      0.035778,
+      "\u001b[33m\r                                        \r100% [Working]\u001b[0m\r              \rFetched 16.0 kB in 0s (54.4 kB/s)\r\n"
+    ],
+    [
+      0.288417,
+      "\n\u001b7\u001b[0;23r\u001b8\u001b[1A"
+    ],
+    [
+      0.03849,
+      "Selecting previously unselected package libsnappy1v5:amd64.\r\n(Reading database ... \r"
+    ],
+    [
+      0.008713,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.00321,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.003854,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.004255,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.002783,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.003808,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.003974,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.002522,
+      "(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r"
+    ],
+    [
+      6e-05,
+      "(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r(Reading database ... 80%\r(Reading database ... 85%\r(Reading database ... 90%\r(Reading database ... 95%\r(Reading database ... 100%\r(Reading database ... 30617 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.001522,
+      "Preparing to unpack .../libsnappy1v5_1.1.4-1_amd64.deb ...\r\n\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [  0%]\u001b[49m\u001b[39m"
+    ],
+    [
+      9.7e-05,
+      " [..........................................................] \u001b8"
+    ],
+    [
+      0.005234,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 16%]\u001b[49m\u001b[39m [#########.................................................] \u001b8"
+    ],
+    [
+      0.003987,
+      "Unpacking libsnappy1v5:amd64 (1.1.4-1) ...\r\n"
+    ],
+    [
+      0.017041,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 33%]\u001b[49m\u001b[39m [###################.......................................] \u001b8"
+    ],
+    [
+      0.003733,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 50%]\u001b[49m\u001b[39m [#############################.............................] \u001b8"
+    ],
+    [
+      0.02691,
+      "Processing triggers for libc-bin (2.24-9ubuntu2.2) ...\r\n"
+    ],
+    [
+      0.019975,
+      "Setting up libsnappy1v5:amd64 (1.1.4-1) ...\r\n"
+    ],
+    [
+      0.008352,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 66%]\u001b[49m\u001b[39m [######################################....................] \u001b8"
+    ],
+    [
+      0.009353,
+      "\u001b7\u001b[24;0f\u001b[42m\u001b[30mProgress: [ 83%]\u001b[49m\u001b[39m [################################################..........] \u001b8"
+    ],
+    [
+      0.010567,
+      "Processing triggers for libc-bin (2.24-9ubuntu2.2) ...\r\n"
+    ],
+    [
+      0.163484,
+      "\r\n\u001b7\u001b[0;24r\u001b8\u001b[1A\u001b[J"
+    ],
+    [
+      0.51786,
+      "\u001b]0;ubuntu@spry: ~\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      5.56297,
+      "#"
+    ],
+    [
+      0.151981,
+      " "
+    ],
+    [
+      0.186698,
+      "T"
+    ],
+    [
+      0.110085,
+      "i"
+    ],
+    [
+      0.157072,
+      "m"
+    ],
+    [
+      0.094575,
+      "e"
+    ],
+    [
+      0.107281,
+      " "
+    ],
+    [
+      0.090807,
+      "t"
+    ],
+    [
+      0.116541,
+      "o"
+    ],
+    [
+      0.04015,
+      " "
+    ],
+    [
+      0.185887,
+      "c"
+    ],
+    [
+      0.126199,
+      "l"
+    ],
+    [
+      0.152186,
+      "o"
+    ],
+    [
+      0.188719,
+      "n"
+    ],
+    [
+      0.132863,
+      "e"
+    ],
+    [
+      0.065217,
+      " "
+    ],
+    [
+      0.219509,
+      "g"
+    ],
+    [
+      0.545493,
+      "\b\u001b[K"
+    ],
+    [
+      0.673601,
+      "s"
+    ],
+    [
+      0.089162,
+      "p"
+    ],
+    [
+      0.108072,
+      "r"
+    ],
+    [
+      0.389985,
+      "y"
+    ],
+    [
+      1.048018,
+      "\r\n\u001b]0;ubuntu@spry: ~\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      2.081907,
+      "git clone https://github.com/gokr/spry.git"
+    ],
+    [
+      1.764435,
+      "\r\n"
+    ],
+    [
+      0.005567,
+      "Cloning into 'spry'...\r\n"
+    ],
+    [
+      0.712308,
+      "remote: Counting objects: 1763, done.\u001b[K\r\n"
+    ],
+    [
+      0.108395,
+      "Receiving objects:   0% (1/1763)   \r"
+    ],
+    [
+      7.3e-05,
+      "Receiving objects:   1% (18/1763)   \r"
+    ],
+    [
+      0.000498,
+      "Receiving objects:   2% (36/1763)   \r"
+    ],
+    [
+      0.002798,
+      "Receiving objects:   3% (53/1763)   \r"
+    ],
+    [
+      0.000282,
+      "Receiving objects:   4% (71/1763)   \r"
+    ],
+    [
+      0.00081,
+      "Receiving objects:   5% (89/1763)   \r"
+    ],
+    [
+      0.000251,
+      "Receiving objects:   6% (106/1763)   \r"
+    ],
+    [
+      0.000356,
+      "Receiving objects:   7% (124/1763)   \r"
+    ],
+    [
+      0.10356,
+      "Receiving objects:   8% (142/1763)   \r"
+    ],
+    [
+      0.000274,
+      "Receiving objects:   9% (159/1763)   \r"
+    ],
+    [
+      0.001734,
+      "Receiving objects:  10% (177/1763)   \r"
+    ],
+    [
+      0.000163,
+      "Receiving objects:  11% (194/1763)   \r"
+    ],
+    [
+      0.00054,
+      "Receiving objects:  12% (212/1763)   \r"
+    ],
+    [
+      0.003353,
+      "Receiving objects:  13% (230/1763)   \r"
+    ],
+    [
+      0.00027,
+      "Receiving objects:  14% (247/1763)   \r"
+    ],
+    [
+      0.000629,
+      "Receiving objects:  15% (265/1763)   \r"
+    ],
+    [
+      0.000241,
+      "Receiving objects:  16% (283/1763)   \r"
+    ],
+    [
+      0.00026,
+      "Receiving objects:  17% (300/1763)   \r"
+    ],
+    [
+      0.000954,
+      "Receiving objects:  18% (318/1763)   \r"
+    ],
+    [
+      0.001367,
+      "Receiving objects:  19% (335/1763)   \rReceiving objects:  20% (353/1763)   \r"
+    ],
+    [
+      0.243021,
+      "Receiving objects:  21% (371/1763)   \r"
+    ],
+    [
+      0.267324,
+      "Receiving objects:  22% (388/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.005832,
+      "Receiving objects:  23% (406/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000217,
+      "Receiving objects:  24% (424/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  25% (441/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000384,
+      "Receiving objects:  26% (459/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.004683,
+      "Receiving objects:  27% (477/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000172,
+      "Receiving objects:  28% (494/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  29% (512/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000453,
+      "Receiving objects:  30% (529/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000239,
+      "Receiving objects:  31% (547/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.001783,
+      "Receiving objects:  32% (565/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000306,
+      "Receiving objects:  33% (582/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.001193,
+      "Receiving objects:  34% (600/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  35% (618/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000377,
+      "Receiving objects:  36% (635/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000259,
+      "Receiving objects:  37% (653/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.004656,
+      "Receiving objects:  38% (670/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000288,
+      "Receiving objects:  39% (688/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.003273,
+      "Receiving objects:  40% (706/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  41% (723/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.004606,
+      "Receiving objects:  42% (741/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  43% (759/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000405,
+      "Receiving objects:  44% (776/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  45% (794/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      3.3e-05,
+      "Receiving objects:  46% (811/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000324,
+      "Receiving objects:  47% (829/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000177,
+      "Receiving objects:  48% (847/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.00397,
+      "Receiving objects:  49% (864/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.002429,
+      "Receiving objects:  50% (882/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      2.6e-05,
+      "Receiving objects:  51% (900/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  52% (917/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      6.5e-05,
+      "Receiving objects:  53% (935/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000334,
+      "Receiving objects:  54% (953/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  55% (970/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.003497,
+      "Receiving objects:  56% (988/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  57% (1005/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  58% (1023/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.003148,
+      "Receiving objects:  59% (1041/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  60% (1058/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000381,
+      "Receiving objects:  61% (1076/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  62% (1094/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  63% (1111/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  64% (1129/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  65% (1146/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  66% (1164/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.00628,
+      "Receiving objects:  67% (1182/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  68% (1199/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  69% (1217/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  70% (1235/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  71% (1252/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  72% (1270/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  73% (1287/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  74% (1305/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  75% (1323/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  76% (1340/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  77% (1358/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  78% (1376/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  79% (1393/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  80% (1411/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  81% (1429/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  82% (1446/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      4.3e-05,
+      "Receiving objects:  83% (1464/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  84% (1481/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  85% (1499/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  86% (1517/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  87% (1534/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  88% (1552/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000143,
+      "Receiving objects:  89% (1570/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  90% (1587/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      2.5e-05,
+      "Receiving objects:  91% (1605/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.00053,
+      "Receiving objects:  92% (1622/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      2.5e-05,
+      "Receiving objects:  93% (1640/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.003712,
+      "Receiving objects:  94% (1658/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.001258,
+      "remote: Total 1763 (delta 0), reused 0 (delta 0), pack-reused 1763\u001b[K\r\nReceiving objects:  95% (1675/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000235,
+      "Receiving objects:  96% (1693/1763), 716.01 KiB | 1.39 MiB/s   \rReceiving objects:  97% (1711/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000224,
+      "Receiving objects:  98% (1728/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      1.8e-05,
+      "Receiving objects:  99% (1746/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      0.000169,
+      "Receiving objects: 100% (1763/1763), 716.01 KiB | 1.39 MiB/s   \r"
+    ],
+    [
+      2.2e-05,
+      "Receiving objects: 100% (1763/1763), 1.64 MiB | 1.39 MiB/s, done.\r\n"
+    ],
+    [
+      0.000529,
+      "Resolving deltas:   0% (0/1150)   \r"
+    ],
+    [
+      0.000799,
+      "Resolving deltas:   7% (91/1150)   \rResolving deltas:   8% (95/1150)   \r"
+    ],
+    [
+      0.000408,
+      "Resolving deltas:   9% (106/1150)   \r"
+    ],
+    [
+      0.002819,
+      "Resolving deltas:  11% (129/1150)   \r"
+    ],
+    [
+      0.000709,
+      "Resolving deltas:  12% (139/1150)   \rResolving deltas:  13% (152/1150)   \r"
+    ],
+    [
+      0.000481,
+      "Resolving deltas:  14% (162/1150)   \r"
+    ],
+    [
+      0.000306,
+      "Resolving deltas:  15% (173/1150)   \r"
+    ],
+    [
+      0.000202,
+      "Resolving deltas:  16% (185/1150)   \r"
+    ],
+    [
+      0.000654,
+      "Resolving deltas:  18% (213/1150)   \r"
+    ],
+    [
+      0.000163,
+      "Resolving deltas:  19% (228/1150)   \rResolving deltas:  20% (236/1150)   \r"
+    ],
+    [
+      0.009701,
+      "Resolving deltas:  25% (296/1150)   \rResolving deltas:  26% (300/1150)   \r"
+    ],
+    [
+      0.000278,
+      "Resolving deltas:  27% (311/1150)   \rResolving deltas:  28% (322/1150)   \r"
+    ],
+    [
+      0.000625,
+      "Resolving deltas:  29% (339/1150)   \r"
+    ],
+    [
+      0.000315,
+      "Resolving deltas:  30% (350/1150)   \rResolving deltas:  31% (365/1150)   \r"
+    ],
+    [
+      0.000357,
+      "Resolving deltas:  32% (374/1150)   \r"
+    ],
+    [
+      0.000124,
+      "Resolving deltas:  33% (385/1150)   \rResolving deltas:  34% (395/1150)   \r"
+    ],
+    [
+      0.000398,
+      "Resolving deltas:  35% (405/1150)   \rResolving deltas:  36% (414/1150)   \r"
+    ],
+    [
+      0.001051,
+      "Resolving deltas:  40% (469/1150)   \rResolving deltas:  41% (482/1150)   \r"
+    ],
+    [
+      0.000201,
+      "Resolving deltas:  42% (494/1150)   \rResolving deltas:  43% (498/1150)   \rResolving deltas:  44% (510/1150)   \r"
+    ],
+    [
+      0.000455,
+      "Resolving deltas:  46% (538/1150)   \r"
+    ],
+    [
+      0.000705,
+      "Resolving deltas:  47% (543/1150)   \r"
+    ],
+    [
+      0.000148,
+      "Resolving deltas:  49% (565/1150)   \rResolving deltas:  50% (575/1150)   \r"
+    ],
+    [
+      0.000788,
+      "Resolving deltas:  51% (594/1150)   \rResolving deltas:  52% (599/1150)   \r"
+    ],
+    [
+      0.000393,
+      "Resolving deltas:  53% (610/1150)   \r"
+    ],
+    [
+      0.00114,
+      "Resolving deltas:  56% (649/1150)   \rResolving deltas:  57% (657/1150)   \r"
+    ],
+    [
+      0.000328,
+      "Resolving deltas:  58% (675/1150)   \rResolving deltas:  59% (679/1150)   \r"
+    ],
+    [
+      0.000346,
+      "Resolving deltas:  60% (694/1150)   \rResolving deltas:  61% (707/1150)   \r"
+    ],
+    [
+      0.000554,
+      "Resolving deltas:  64% (740/1150)   \rResolving deltas:  65% (748/1150)   \r"
+    ],
+    [
+      0.000551,
+      "Resolving deltas:  68% (782/1150)   \r"
+    ],
+    [
+      0.000486,
+      "Resolving deltas:  72% (828/1150)   \r"
+    ],
+    [
+      0.000232,
+      "Resolving deltas:  74% (858/1150)   \rResolving deltas:  75% (863/1150)   \r"
+    ],
+    [
+      0.000648,
+      "Resolving deltas:  79% (911/1150)   \r"
+    ],
+    [
+      0.011359,
+      "Resolving deltas:  80% (921/1150)   \rResolving deltas:  82% (949/1150)   \rResolving deltas:  85% (979/1150)   \rResolving deltas:  86% (993/1150)   \rResolving deltas:  88% (1019/1150)   \rResolving deltas:  89% (1026/1150)   \rResolving deltas:  90% (1037/1150)   \rResolving deltas:  91% (1048/1150)   \rResolving deltas:  92% (1060/1150)   \rResolving deltas:  94% (1085/1150)   \rResolving deltas:  95% (1093/1150)   \rResolving deltas:  98% (1131/1150)   \rResolving deltas:  99% (1147/1150)   \rResolving deltas: 100% (1150/1150)   \rResolving deltas: 100% (1150/1150), done.\r\n"
+    ],
+    [
+      0.065849,
+      "\u001b]0;ubuntu@spry: ~\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      1.139997,
+      "c"
+    ],
+    [
+      0.07094,
+      "d"
+    ],
+    [
+      0.088223,
+      " "
+    ],
+    [
+      0.177757,
+      "s"
+    ],
+    [
+      0.094487,
+      "p"
+    ],
+    [
+      0.134876,
+      "r"
+    ],
+    [
+      0.182493,
+      "y"
+    ],
+    [
+      0.287725,
+      "\r\n"
+    ],
+    [
+      0.000308,
+      "\u001b]0;ubuntu@spry: ~/spry\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~/spry\u001b[00m$ "
+    ],
+    [
+      5.148955,
+      "# Building spry with dependencies is done using Nim's package\re manager called nimble"
+    ],
+    [
+      3.050668,
+      "\r\n\u001b]0;ubuntu@spry: ~/spry\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~/spry\u001b[00m$ "
+    ],
+    [
+      1.3226,
+      "n"
+    ],
+    [
+      0.22268,
+      "i"
+    ],
+    [
+      0.173255,
+      "m"
+    ],
+    [
+      0.229526,
+      "b"
+    ],
+    [
+      0.431638,
+      "l"
+    ],
+    [
+      0.485797,
+      "e "
+    ],
+    [
+      1.173433,
+      "i"
+    ],
+    [
+      0.165484,
+      "n"
+    ],
+    [
+      0.053951,
+      "s"
+    ],
+    [
+      0.070565,
+      "t"
+    ],
+    [
+      0.092942,
+      "a"
+    ],
+    [
+      0.120491,
+      "l"
+    ],
+    [
+      0.133106,
+      "l"
+    ],
+    [
+      1.199158,
+      "\r\n"
+    ],
+    [
+      0.007885,
+      "\u001b[33m\u001b[1m   Warning: \u001b[0m\u001b[33m\u001b[0mPackage 'spry' has an incorrect structure. The top level of the package source directory should contain at most one module, named 'spry.nim', but a file named 'sprymicro.nim' was found. This will be an error in the future.\r\n\u001b[33m\u001b[1m      Hint: \u001b[0m\u001b[33m\u001b[0mIf this is the primary source file in the package, rename it to 'spry.nim'. If it's a source file required by the main module, or if it is one of several modules exposed by 'spry', then move it into a 'sprypkg/' subdirectory. If it's a test file or otherwise not required to build the the package 'spry.nim', prevent its installation by adding `skipFiles = @[\"sprymicro.nim\"]` to the .nimble file. See https://github.com/nim-lang/nimble#libraries for more info.\r\n\u001b[36m\u001b[1m  Verifying \u001b[0m\u001b[36m\u001b[0mdependencies for spry@0.6.1\r\n"
+    ],
+    [
+      0.00317,
+      "\u001b[33m\u001b[1m    Prompt: \u001b[0m\u001b[33m\u001b[0mNo local packages.json found, download it from internet? [y/N]\r\n\u001b[33m\u001b[1m    Answer: \u001b[0m\u001b[33m\u001b[0m"
+    ],
+    [
+      1.632981,
+      "y"
+    ],
+    [
+      1.200414,
+      "\r\n"
+    ],
+    [
+      0.000118,
+      "\u001b[36m\u001b[1mDownloading \u001b[0m\u001b[36m\u001b[0mOfficial package list\r\n"
+    ],
+    [
+      0.649471,
+      "\u001b[32m\u001b[1m    Success \u001b[0m\u001b[32m\u001b[0mPackage list downloaded.\r\n"
+    ],
+    [
+      0.003349,
+      "\u001b[36m\u001b[1m Installing \u001b[0m\u001b[36m\u001b[0mpython@any version\r\n"
+    ],
+    [
+      0.003111,
+      "\u001b[36m\u001b[1mDownloading \u001b[0m\u001b[36m\u001b[0mhttps://github.com/nim-lang/python using git\r\n"
+    ],
+    [
+      1.693686,
+      "\u001b[36m\u001b[1m  Verifying \u001b[0m\u001b[36m\u001b[0mdependencies for python@1.2\r\n"
+    ],
+    [
+      0.003478,
+      "\u001b[36m\u001b[1m Installing \u001b[0m\u001b[36m\u001b[0mpython@1.2\r\n"
+    ],
+    [
+      0.000985,
+      "\u001b[32m\u001b[1m   Success: \u001b[0m\u001b[32m\u001b[0mpython installed successfully.\r\n"
+    ],
+    [
+      0.004776,
+      "\u001b[36m\u001b[1m Installing \u001b[0m\u001b[36m\u001b[0mui@any version\r\n"
+    ],
+    [
+      0.004424,
+      "\u001b[36m\u001b[1mDownloading \u001b[0m\u001b[36m\u001b[0mhttps://github.com/nim-lang/ui using git\r\n"
+    ],
+    [
+      1.440051,
+      "\u001b[33m\u001b[1m   Warning: \u001b[0m\u001b[33m\u001b[0mPackage 'ui' has an incorrect structure. It should contain a single directory hierarchy for source files, named 'ui', but file 'toy.nim' is in a directory named 'examples' instead. This will be an error in the future.\r\n\u001b[33m\u001b[1m      Hint: \u001b[0m\u001b[33m\u001b[0mIf 'examples' contains source files for building 'ui', rename it to 'ui'. Otherwise, prevent its installation by adding `skipDirs = @[\"examples\"]` to the .nimble file.\r\n\u001b[36m\u001b[1m  Verifying \u001b[0m\u001b[36m\u001b[0mdependencies for ui@0.9\r\n"
+    ],
+    [
+      0.003011,
+      "\u001b[36m\u001b[1m Installing \u001b[0m\u001b[36m\u001b[0mui@0.9\r\n"
+    ],
+    [
+      0.003798,
+      "\u001b[32m\u001b[1m   Success: \u001b[0m\u001b[32m\u001b[0mui installed successfully.\r\n"
+    ],
+    [
+      0.008095,
+      "\u001b[36m\u001b[1m Installing \u001b[0m\u001b[36m\u001b[0mnimsnappy@any version\r\n"
+    ],
+    [
+      0.003338,
+      "\u001b[36m\u001b[1mDownloading \u001b[0m\u001b[36m\u001b[0mhttps://github.com/dfdeshom/nimsnappy.git using git\r\n"
+    ],
+    [
+      1.327118,
+      "\u001b[33m\u001b[1m   Warning: \u001b[0m\u001b[33m\u001b[0mPackage 'nimsnappy' has an incorrect structure. The top level of the package source directory should contain at most one module, named 'nimsnappy.nim', but a file named 'tests.nim' was found. This will be an error in the future.\r\n\u001b[33m\u001b[1m      Hint: \u001b[0m\u001b[33m\u001b[0mIf this is the primary source file in the package, rename it to 'nimsnappy.nim'. If it's a source file required by the main module, or if it is one of several modules exposed by 'nimsnappy', then move it into a 'nimsnappy/' subdirectory. If it's a test file or otherwise not required to build the the package 'nimsnappy.nim', prevent its installation by adding `skipFiles = @[\"tests.nim\"]` to the .nimble file. See https://github.com/nim-lang/nimble#libraries for more info.\r\n"
+    ],
+    [
+      0.000104,
+      "\u001b[36m\u001b[1m  Verifying \u001b[0m\u001b[36m\u001b[0mdependencies for nimsnappy@0.1.0\r\n"
+    ],
+    [
+      0.003056,
+      "\u001b[36m\u001b[1m Installing \u001b[0m\u001b[36m\u001b[0mnimsnappy@0.1.0\r\n"
+    ],
+    [
+      0.00264,
+      "\u001b[32m\u001b[1m   Success: \u001b[0m\u001b[32m\u001b[0mnimsnappy installed successfully.\r\n\u001b[36m\u001b[1m Installing \u001b[0m\u001b[36m\u001b[0mspry@0.6.1\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[36m\u001b[1m   Building \u001b[0m\u001b[36m\u001b[0mspry/spry using c backend\r\n"
+    ],
+    [
+      6.216484,
+      "\u001b[36m\u001b[1m   Building \u001b[0m\u001b[36m\u001b[0mspry/ispry using c backend\r\n"
+    ],
+    [
+      4.300515,
+      "\u001b[32m\u001b[1m   Success: \u001b[0m\u001b[32m\u001b[0mspry installed successfully.\r\n\u001b[33m\u001b[1m   Warning: \u001b[0m\u001b[33m\u001b[0mThe .nimble file for this project could make use of additional features, if converted into the new NimScript format.\r\n\u001b[33m\u001b[1m        ... \u001b[0m\u001b[33m\u001b[0mFor more details see:https://github.com/nim-lang/nimble#creating-packages\r\n"
+    ],
+    [
+      0.01359,
+      "\u001b]0;ubuntu@spry: ~/spry\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~/spry\u001b[00m$ "
+    ],
+    [
+      3.636362,
+      "#"
+    ],
+    [
+      0.5685,
+      " "
+    ],
+    [
+      0.17731,
+      "S"
+    ],
+    [
+      0.171819,
+      "p"
+    ],
+    [
+      0.104274,
+      "r"
+    ],
+    [
+      0.182507,
+      "y"
+    ],
+    [
+      0.056765,
+      " "
+    ],
+    [
+      0.539924,
+      "i"
+    ],
+    [
+      0.099532,
+      "s"
+    ],
+    [
+      0.097872,
+      " "
+    ],
+    [
+      0.22016,
+      "n"
+    ],
+    [
+      0.19883,
+      "o"
+    ],
+    [
+      0.083458,
+      "w"
+    ],
+    [
+      0.089232,
+      " "
+    ],
+    [
+      0.084853,
+      "i"
+    ],
+    [
+      0.149694,
+      "n"
+    ],
+    [
+      0.093191,
+      "s"
+    ],
+    [
+      0.040253,
+      "t"
+    ],
+    [
+      0.059517,
+      "a"
+    ],
+    [
+      0.120445,
+      "l"
+    ],
+    [
+      0.133282,
+      "l"
+    ],
+    [
+      0.061023,
+      "e"
+    ],
+    [
+      0.04636,
+      "d"
+    ],
+    [
+      0.234699,
+      "!"
+    ],
+    [
+      0.632661,
+      "\r\n"
+    ],
+    [
+      0.000201,
+      "\u001b]0;ubuntu@spry: ~/spry\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~/spry\u001b[00m$ "
+    ],
+    [
+      2.922686,
+      "s"
+    ],
+    [
+      0.089922,
+      "p"
+    ],
+    [
+      0.131249,
+      "r"
+    ],
+    [
+      0.198511,
+      "y"
+    ],
+    [
+      0.040965,
+      " "
+    ],
+    [
+      0.252459,
+      "-"
+    ],
+    [
+      0.133786,
+      "-"
+    ],
+    [
+      0.148081,
+      "v"
+    ],
+    [
+      0.165464,
+      "e"
+    ],
+    [
+      0.039622,
+      "r"
+    ],
+    [
+      0.163858,
+      "s"
+    ],
+    [
+      0.096526,
+      "i"
+    ],
+    [
+      0.150267,
+      "o"
+    ],
+    [
+      0.1489,
+      "n"
+    ],
+    [
+      0.263892,
+      "\r\n"
+    ],
+    [
+      0.005182,
+      "Spry 0.6\r\n"
+    ],
+    [
+      0.000722,
+      "\u001b]0;ubuntu@spry: ~/spry\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~/spry\u001b[00m$ "
+    ],
+    [
+      1.548484,
+      "s"
+    ],
+    [
+      0.102408,
+      "p"
+    ],
+    [
+      0.086612,
+      "r"
+    ],
+    [
+      0.151539,
+      "y"
+    ],
+    [
+      0.048003,
+      " "
+    ],
+    [
+      0.228707,
+      "-"
+    ],
+    [
+      0.149881,
+      "-"
+    ],
+    [
+      0.284474,
+      "h"
+    ],
+    [
+      0.165069,
+      "e"
+    ],
+    [
+      0.103899,
+      "l"
+    ],
+    [
+      0.166799,
+      "p"
+    ],
+    [
+      0.27785,
+      "\r\n"
+    ],
+    [
+      0.005932,
+      "Spry 0.6\r\n\r\nUsage:\r\n  spry [options] <path-or-stdin>\r\n\r\nOptions:\r\n  -e --eval \"code\"    Evaluates Spry code given as string\r\n  -h --help           Show this screen\r\n  -v --version        Show version of Spry\r\n\r\n\u001b]0;ubuntu@spry: ~/spry\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~/spry\u001b[00m$ "
+    ],
+    [
+      3.19712,
+      "s"
+    ],
+    [
+      0.118528,
+      "p"
+    ],
+    [
+      0.102386,
+      "r"
+    ],
+    [
+      0.17451,
+      "y"
+    ],
+    [
+      0.033262,
+      " "
+    ],
+    [
+      0.268403,
+      "-"
+    ],
+    [
+      0.387512,
+      "e"
+    ],
+    [
+      0.777206,
+      " "
+    ],
+    [
+      0.753249,
+      "\""
+    ],
+    [
+      0.4371,
+      "e"
+    ],
+    [
+      0.079529,
+      "c"
+    ],
+    [
+      0.109289,
+      "h"
+    ],
+    [
+      0.199727,
+      "o"
+    ],
+    [
+      0.063962,
+      " "
+    ],
+    [
+      0.33067,
+      "("
+    ],
+    [
+      0.35567,
+      "3"
+    ],
+    [
+      0.201062,
+      " "
+    ],
+    [
+      0.165066,
+      "+"
+    ],
+    [
+      0.079578,
+      " "
+    ],
+    [
+      0.130866,
+      "4"
+    ],
+    [
+      0.885802,
+      ")"
+    ],
+    [
+      0.079232,
+      "\""
+    ],
+    [
+      0.837025,
+      "\r\n"
+    ],
+    [
+      0.00567,
+      "7\r\n"
+    ],
+    [
+      0.000404,
+      "\u001b]0;ubuntu@spry: ~/spry\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~/spry\u001b[00m$ "
+    ],
+    [
+      3.133154,
+      "e"
+    ],
+    [
+      0.094883,
+      "c"
+    ],
+    [
+      0.110104,
+      "h"
+    ],
+    [
+      0.247002,
+      "o"
+    ],
+    [
+      0.064102,
+      " "
+    ],
+    [
+      0.152538,
+      "\""
+    ],
+    [
+      0.581451,
+      "e"
+    ],
+    [
+      0.086942,
+      "c"
+    ],
+    [
+      0.063299,
+      "h"
+    ],
+    [
+      0.213766,
+      "o"
+    ],
+    [
+      0.072048,
+      " "
+    ],
+    [
+      0.434259,
+      "("
+    ],
+    [
+      0.395608,
+      "3"
+    ],
+    [
+      0.120883,
+      " "
+    ],
+    [
+      0.205533,
+      "+"
+    ],
+    [
+      0.071799,
+      " "
+    ],
+    [
+      0.161841,
+      "4"
+    ],
+    [
+      0.367015,
+      ")"
+    ],
+    [
+      0.123128,
+      "\""
+    ],
+    [
+      0.648859,
+      " "
+    ],
+    [
+      0.497562,
+      "|"
+    ],
+    [
+      0.168564,
+      " "
+    ],
+    [
+      0.202193,
+      "s"
+    ],
+    [
+      0.15329,
+      "p"
+    ],
+    [
+      0.102276,
+      "r"
+    ],
+    [
+      0.180198,
+      "y"
+    ],
+    [
+      0.671896,
+      "\r\n"
+    ],
+    [
+      0.004961,
+      "7\r\n"
+    ],
+    [
+      0.000594,
+      "\u001b]0;ubuntu@spry: ~/spry\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~/spry\u001b[00m$ "
+    ],
+    [
+      2.636602,
+      "#"
+    ],
+    [
+      1.968022,
+      " "
+    ],
+    [
+      0.202783,
+      "T"
+    ],
+    [
+      0.093247,
+      "h"
+    ],
+    [
+      0.13213,
+      "a"
+    ],
+    [
+      0.080642,
+      "n"
+    ],
+    [
+      0.181858,
+      "k"
+    ],
+    [
+      0.107445,
+      "s"
+    ],
+    [
+      0.078726,
+      " "
+    ],
+    [
+      0.206781,
+      "f"
+    ],
+    [
+      0.047544,
+      "o"
+    ],
+    [
+      0.084376,
+      "r"
+    ],
+    [
+      0.080776,
+      " "
+    ],
+    [
+      0.434291,
+      "w"
+    ],
+    [
+      0.253342,
+      "a"
+    ],
+    [
+      0.072853,
+      "t"
+    ],
+    [
+      0.188231,
+      "c"
+    ],
+    [
+      0.087844,
+      "h"
+    ],
+    [
+      0.157606,
+      "i"
+    ],
+    [
+      0.141527,
+      "n"
+    ],
+    [
+      0.077977,
+      "g"
+    ],
+    [
+      0.235158,
+      "!"
+    ],
+    [
+      1.848788,
+      "\r\n\u001b]0;ubuntu@spry: ~/spry\u0007\u001b[01;32mubuntu@spry\u001b[00m:\u001b[01;34m~/spry\u001b[00m$ "
+    ],
+    [
+      2.051346,
+      "e"
+    ],
+    [
+      0.078416,
+      "x"
+    ],
+    [
+      0.071939,
+      "i"
+    ],
+    [
+      0.139865,
+      "t"
+    ],
+    [
+      0.144149,
+      "\r\n"
+    ],
+    [
+      0.000728,
+      "logout\r\n"
+    ],
+    [
+      0.053265,
+      "\u001b]0;gokr@yoda: ~\u0007gokr@yoda:~$ "
+    ]
+  ],
+  "title": null
+}

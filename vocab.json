@@ -1,0 +1,999 @@
+{
+  "stdout": [
+ 
+    [
+      0.01838,
+      "Welcome to interactive Spry!\r\nAn empty line will evaluate previous lines, so hit enter twice.\r\n>>> "
+    ],
+    [
+      7.361367,
+      "\r\u001b[0K>>> r\r\u001b[5C"
+    ],
+    [
+      0.127099,
+      "\r\u001b[0K>>> ro\r\u001b[6C"
+    ],
+    [
+      0.11754,
+      "\r\u001b[0K>>> roo\r\u001b[7C"
+    ],
+    [
+      0.093757,
+      "\r\u001b[0K>>> root\r\u001b[8C"
+    ],
+    [
+      2.264646,
+      "\r\n"
+    ],
+    [
+      0.000662,
+      ">>> "
+    ],
+    [
+      0.972815,
+      "\r\n"
+    ],
+    [
+      0.004219,
+      "{loadString:as: = func [:code :name loadMap:as: (eval parse code) name] / = primitive-method sqrt = primitive-method detect: = method [:pred self reset [self end?] whileFalse: [n = (self next) do pred n then: [^ n]] ^ nil] clone = primitive-method then:else: = primitive-method shell = primitive-func >= = primitive-method == = primitive-method copyFrom:to: = primitive-method findString:startingAt: = primitive-method sprydo: = method [:fun self reset [self end?] whileFalse: [do fun (self next)]] cpuTimeToRun = primitive-method ^ = primitive-func litword = primitive-func and = primitive-method $ = primitive-func litify = primitive-func newBlock = primitive-func true = true node = primitive-func closeMemfile = primitive-method - = primitive-method uncompress = primitive-func second = primitive-method loadFile:as: = func [loadString:as: (readFile :fileName) :name] === = primitive-method removeLast = primitive-method loadFile: = func [loadString: readFile :fileName] last = primitive-method set? = primitive-method f"
+    ],
+    [
+      4.9e-05,
+      "ill: = primitive-method next = primitive-method = = primitive-method existsFile = primitive-func else: = primitive-method downloadUrl:fileName: = primitive-func eva = primitive-func reify = primitive-func split: = primitive-method nil = nil <= = primitive-method asInt = primitive-method get: = primitive-method ? = primitive-method repeat: = primitive-method word = primitive-func negated = primitive-method sin = primitive-method whileTrue: = primitive-method type = primitive-method fourth = primitive-method write: = primitive-method * = primitive-method print = primitive-method false = false quote = primitive-func to:do: = primitive-method add: = primitive-method fac = primitive-method random = primitive-method linesDo: = primitive-method reset = primitive-method nil? = primitive-method openMemfile = primitive-func readLines = primitive-func reverse = primitive-method pos: = primitive-method not = primitive-method , = primitive-method then: = primitive-method binom = primitive-method source: = primitive-method"
+    ],
+    [
+      4.8e-05,
+      " locals = primitive-func contains: = primitive-method loadString: = func [:code map = eval parse code loadMap:as: map ((map at: '_meta) at: 'name)] map: = primitive-method sum = primitive-method at:put: = primitive-method compress = primitive-func at: = primitive-method repr = primitive-func spryselect: = method [:pred result = ([] clone) self reset [self end?] whileFalse: [n = (self next) do pred n then: [result add: n]] ^ result] parseFile = primitive-func sleep = primitive-func polymethod = primitive-func timeToRun = primitive-method source = primitive-method do = primitive-func reduce = primitive-func size = primitive-method tag? = primitive-method newBlock: = primitive-func getUrl = primitive-func do: = primitive-method loadMap:as: = func [:map :name root at:put: name map true] root = primitive-func echo = primitive-func pos = primitive-method serialize = primitive-func end? = primitive-method readFile = primitive-func tags = primitive-method + = primitive-method asFloat = primitive-method modules = [] s"
+    ],
+    [
+      3.8e-05,
+      "electLarger8 = primitive-method powerOfTwo? = primitive-method whileFalse: = primitive-method probe = primitive-func select: = primitive-method self = primitive-func parse = primitive-func activation = primitive-func method = primitive-func first = primitive-method or = primitive-method else:then: = primitive-method nextPowerOfTwo = primitive-method third = primitive-method < = primitive-method set: = primitive-method read = primitive-method toJSON = primitive-method > = primitive-method !== = primitive-method -> = primitive-method toSpry = primitive-method dump = primitive-func set:to: = primitive-method sendMailSubject:body:to:cc:from:recipients:server:user:password:port:ssl: = primitive-func tags: = primitive-method replace:with: = primitive-method cos = primitive-method ; = primitive-func tag: = primitive-method != = primitive-method quit = primitive-func eval = primitive-func writeFile = primitive-func findString: = method [self findString:startingAt: :s 0] prev = primitive-method parseJSON = primitive-"
+    ],
+    [
+      0.001112,
+      "func fifth = primitive-method func = primitive-func spryselectdo: = method [:pred result = ([] clone) self do: [do pred :n then: [result add: n]] ^ result] spawn = primitive-func}\r\n>>> "
+    ],
+    [
+      3.958824,
+      "\r\u001b[0K>>> r\r\u001b[5C"
+    ],
+    [
+      0.088777,
+      "\r\u001b[0K>>> ro\r\u001b[6C"
+    ],
+    [
+      0.133431,
+      "\r\u001b[0K>>> roo\r\u001b[7C"
+    ],
+    [
+      0.075759,
+      "\r\u001b[0K>>> root\r\u001b[8C"
+    ],
+    [
+      0.112624,
+      "\r\u001b[0K>>> root \r\u001b[9C"
+    ],
+    [
+      0.323939,
+      "\r\u001b[0K>>> root a\r\u001b[10C"
+    ],
+    [
+      0.068269,
+      "\r\u001b[0K>>> root at\r\u001b[11C"
+    ],
+    [
+      0.238293,
+      "\r\u001b[0K>>> root at:\r\u001b[12C"
+    ],
+    [
+      0.058439,
+      "\r\u001b[0K>>> root at: \r\u001b[13C"
+    ],
+    [
+      0.883216,
+      "\r\u001b[0K>>> root at: '\r\u001b[14C"
+    ],
+    [
+      0.700699,
+      "\r\u001b[0K>>> root at: '=\r\u001b[15C"
+    ],
+    [
+      0.40899,
+      "\r\n"
+    ],
+    [
+      0.000537,
+      ">>> "
+    ],
+    [
+      0.162816,
+      "\r\n"
+    ],
+    [
+      0.001345,
+      "primitive-method\r\n"
+    ],
+    [
+      0.000985,
+      ">>> "
+    ],
+    [
+      1.232823,
+      "\r\u001b[0K>>> r\r\u001b[5C"
+    ],
+    [
+      0.072035,
+      "\r\u001b[0K>>> ro\r\u001b[6C"
+    ],
+    [
+      0.149309,
+      "\r\u001b[0K>>> roo\r\u001b[7C"
+    ],
+    [
+      0.108661,
+      "\r\u001b[0K>>> root\r\u001b[8C"
+    ],
+    [
+      0.104065,
+      "\r\u001b[0K>>> root \r\u001b[9C"
+    ],
+    [
+      0.906496,
+      "\r\u001b[0K>>> root a\r\u001b[10C"
+    ],
+    [
+      0.055559,
+      "\r\u001b[0K>>> root at\r\u001b[11C"
+    ],
+    [
+      0.198583,
+      "\r\u001b[0K>>> root at:\r\u001b[12C"
+    ],
+    [
+      0.060735,
+      "\r\u001b[0K>>> root at: \r\u001b[13C"
+    ],
+    [
+      0.212727,
+      "\r\u001b[0K>>> root at: '\r\u001b[14C"
+    ],
+    [
+      0.959018,
+      "\r\u001b[0K>>> root at: '=\r\u001b[15C"
+    ],
+    [
+      0.100456,
+      "\r\u001b[0K>>> root at: '==\r\u001b[16C"
+    ],
+    [
+      0.638567,
+      "\r\n"
+    ],
+    [
+      0.000403,
+      ">>> "
+    ],
+    [
+      0.174053,
+      "\r\n"
+    ],
+    [
+      0.000357,
+      "primitive-method\r\n"
+    ],
+    [
+      0.006132,
+      ">>> "
+    ],
+    [
+      2.357632,
+      "\r\u001b[0K>>> r\r\u001b[5C"
+    ],
+    [
+      0.159585,
+      "\r\u001b[0K>>> ro\r\u001b[6C"
+    ],
+    [
+      0.141661,
+      "\r\u001b[0K>>> roo\r\u001b[7C"
+    ],
+    [
+      0.140679,
+      "\r\u001b[0K>>> root\r\u001b[8C"
+    ],
+    [
+      0.352182,
+      "\r\u001b[0K>>> root \r\u001b[9C"
+    ],
+    [
+      0.097457,
+      "\r\u001b[0K>>> root a\r\u001b[10C"
+    ],
+    [
+      0.062958,
+      "\r\u001b[0K>>> root at\r\u001b[11C"
+    ],
+    [
+      0.367404,
+      "\r\u001b[0K>>> root at:\r\u001b[12C"
+    ],
+    [
+      0.076247,
+      "\r\u001b[0K>>> root at: \r\u001b[13C"
+    ],
+    [
+      1.248064,
+      "\r\u001b[0K>>> root at: '\r\u001b[14C"
+    ],
+    [
+      0.267704,
+      "\r\u001b[0K>>> root at: 'a\r\u001b[15C"
+    ],
+    [
+      0.071244,
+      "\r\u001b[0K>>> root at: 'at\r\u001b[16C"
+    ],
+    [
+      0.182953,
+      "\r\u001b[0K>>> root at: 'at:\r\u001b[17C"
+    ],
+    [
+      0.32922,
+      "\r\n"
+    ],
+    [
+      0.000296,
+      ">>> "
+    ],
+    [
+      0.143607,
+      "\r\n"
+    ],
+    [
+      0.00015,
+      "primitive-method\r\n>>> "
+    ],
+    [
+      2.428838,
+      "\r\u001b[0K>>> r\r\u001b[5C"
+    ],
+    [
+      0.119187,
+      "\r\u001b[0K>>> ro\r\u001b[6C"
+    ],
+    [
+      0.132103,
+      "\r\u001b[0K>>> roo\r\u001b[7C"
+    ],
+    [
+      0.062499,
+      "\r\u001b[0K>>> root\r\u001b[8C"
+    ],
+    [
+      0.135979,
+      "\r\u001b[0K>>> root \r\u001b[9C"
+    ],
+    [
+      0.075845,
+      "\r\u001b[0K>>> root a\r\u001b[10C"
+    ],
+    [
+      0.062446,
+      "\r\u001b[0K>>> root at\r\u001b[11C"
+    ],
+    [
+      0.253642,
+      "\r\u001b[0K>>> root at:\r\u001b[12C"
+    ],
+    [
+      0.067141,
+      "\r\u001b[0K>>> root at: \r\u001b[13C"
+    ],
+    [
+      0.129202,
+      "\r\u001b[0K>>> root at: '\r\u001b[14C"
+    ],
+    [
+      0.525687,
+      "\r\u001b[0K>>> root at: 't\r\u001b[15C"
+    ],
+    [
+      0.044433,
+      "\r\u001b[0K>>> root at: 'tr\r\u001b[16C"
+    ],
+    [
+      0.159521,
+      "\r\u001b[0K>>> root at: 'tru\r\u001b[17C"
+    ],
+    [
+      0.06128,
+      "\r\u001b[0K>>> root at: 'true\r\u001b[18C"
+    ],
+    [
+      0.32089,
+      "\r\n"
+    ],
+    [
+      0.007043,
+      ">>> "
+    ],
+    [
+      0.134157,
+      "\r\n"
+    ],
+    [
+      0.000226,
+      "true\r\n>>> "
+    ],
+    [
+      2.156333,
+      "\r\u001b[0K>>> r\r\u001b[5C"
+    ],
+    [
+      0.079629,
+      "\r\u001b[0K>>> ro\r\u001b[6C"
+    ],
+    [
+      0.14949,
+      "\r\u001b[0K>>> roo\r\u001b[7C"
+    ],
+    [
+      0.038251,
+      "\r\u001b[0K>>> root\r\u001b[8C"
+    ],
+    [
+      0.110275,
+      "\r\u001b[0K>>> root \r\u001b[9C"
+    ],
+    [
+      0.275629,
+      "\r\u001b[0K>>> root a\r\u001b[10C"
+    ],
+    [
+      0.055418,
+      "\r\u001b[0K>>> root at\r\u001b[11C"
+    ],
+    [
+      0.219899,
+      "\r\u001b[0K>>> root at:\r\u001b[12C"
+    ],
+    [
+      0.067747,
+      "\r\u001b[0K>>> root at: \r\u001b[13C"
+    ],
+    [
+      0.200445,
+      "\r\u001b[0K>>> root at: '\r\u001b[14C"
+    ],
+    [
+      0.349296,
+      "\r\u001b[0K>>> root at: 'n\r\u001b[15C"
+    ],
+    [
+      0.167484,
+      "\r\u001b[0K>>> root at: 'ni\r\u001b[16C"
+    ],
+    [
+      0.173345,
+      "\r\u001b[0K>>> root at: 'nik\r\u001b[17C"
+    ],
+    [
+      0.016332,
+      "\r\u001b[0K>>> root at: 'nikl\r\u001b[18C"
+    ],
+    [
+      0.50948,
+      "\r\u001b[0K>>> root at: 'nik\r\u001b[17C"
+    ],
+    [
+      0.142135,
+      "\r\u001b[0K>>> root at: 'ni\r\u001b[16C"
+    ],
+    [
+      0.125934,
+      "\r\u001b[0K>>> root at: 'nil\r\u001b[17C"
+    ],
+    [
+      0.341656,
+      "\r\n"
+    ],
+    [
+      0.000444,
+      ">>> "
+    ],
+    [
+      0.293758,
+      "\r\n"
+    ],
+    [
+      0.000544,
+      "nil\r\n>>> "
+    ],
+    [
+      5.794911,
+      "\r\u001b[0K>>> b\r\u001b[5C"
+    ],
+    [
+      0.124481,
+      "\r\u001b[0K>>> ba\r\u001b[6C"
+    ],
+    [
+      0.056854,
+      "\r\u001b[0K>>> bar\r\u001b[7C"
+    ],
+    [
+      0.119362,
+      "\r\u001b[0K>>> bar \r\u001b[8C"
+    ],
+    [
+      0.453158,
+      "\r\u001b[0K>>> bar =\r\u001b[9C"
+    ],
+    [
+      0.031791,
+      "\r\u001b[0K>>> bar = \r\u001b[10C"
+    ],
+    [
+      0.897643,
+      "\r\u001b[0K>>> bar = f\r\u001b[11C"
+    ],
+    [
+      0.133654,
+      "\r\u001b[0K>>> bar = fu\r\u001b[12C"
+    ],
+    [
+      0.146465,
+      "\r\u001b[0K>>> bar = fun\r\u001b[13C"
+    ],
+    [
+      0.111891,
+      "\r\u001b[0K>>> bar = func\r\u001b[14C"
+    ],
+    [
+      0.128527,
+      "\r\u001b[0K>>> bar = func \r\u001b[15C"
+    ],
+    [
+      0.660349,
+      "\r\u001b[0K>>> bar = func [\r\u001b[16C"
+    ],
+    [
+      0.903813,
+      "\r\u001b[0K>>> bar = func [ \r\u001b[17C"
+    ],
+    [
+      0.2359,
+      "\r\u001b[0K>>> bar = func [ :\r\u001b[18C"
+    ],
+    [
+      0.21038,
+      "\r\u001b[0K>>> bar = func [ :x\r\u001b[19C"
+    ],
+    [
+      0.201596,
+      "\r\u001b[0K>>> bar = func [ :x \r\u001b[20C"
+    ],
+    [
+      3.307903,
+      "\r\u001b[0K>>> bar = func [ :x n\r\u001b[21C"
+    ],
+    [
+      0.061588,
+      "\r\u001b[0K>>> bar = func [ :x ne\r\u001b[22C"
+    ],
+    [
+      0.1153,
+      "\r\u001b[0K>>> bar = func [ :x neg\r\u001b[23C"
+    ],
+    [
+      0.141981,
+      "\r\u001b[0K>>> bar = func [ :x nega\r\u001b[24C"
+    ],
+    [
+      0.09644,
+      "\r\u001b[0K>>> bar = func [ :x negat\r\u001b[25C"
+    ],
+    [
+      0.15015,
+      "\r\u001b[0K>>> bar = func [ :x negate\r\u001b[26C"
+    ],
+    [
+      0.135327,
+      "\r\u001b[0K>>> bar = func [ :x negated\r\u001b[27C"
+    ],
+    [
+      0.46419,
+      "\r\u001b[0K>>> bar = func [ :x negated \r\u001b[28C"
+    ],
+    [
+      0.524361,
+      "\r\u001b[0K>>> bar = func [ :x negated ]\r\u001b[29C"
+    ],
+    [
+      1.942648,
+      "\r\n"
+    ],
+    [
+      0.002749,
+      ">>> "
+    ],
+    [
+      0.306759,
+      "\r\n"
+    ],
+    [
+      0.000297,
+      "func [:x negated]\r\n>>> "
+    ],
+    [
+      1.738616,
+      "\r\u001b[0K>>> b\r\u001b[5C"
+    ],
+    [
+      0.053726,
+      "\r\u001b[0K>>> ba\r\u001b[6C"
+    ],
+    [
+      0.049999,
+      "\r\u001b[0K>>> bar\r\u001b[7C"
+    ],
+    [
+      0.144359,
+      "\r\u001b[0K>>> bar \r\u001b[8C"
+    ],
+    [
+      0.211376,
+      "\r\u001b[0K>>> bar 5\r\u001b[9C"
+    ],
+    [
+      0.209911,
+      "\r\n"
+    ],
+    [
+      0.000383,
+      ">>> "
+    ],
+    [
+      0.237788,
+      "\r\n"
+    ],
+    [
+      0.000147,
+      "-5\r\n>>> "
+    ],
+    [
+      4.706547,
+      "\r\u001b[0K>>> f\r\u001b[5C"
+    ],
+    [
+      0.097652,
+      "\r\u001b[0K>>> fo\r\u001b[6C"
+    ],
+    [
+      0.144312,
+      "\r\u001b[0K>>> foo\r\u001b[7C"
+    ],
+    [
+      0.100504,
+      "\r\u001b[0K>>> foo \r\u001b[8C"
+    ],
+    [
+      0.996545,
+      "\r\u001b[0K>>> foo =\r\u001b[9C"
+    ],
+    [
+      0.039057,
+      "\r\u001b[0K>>> foo = \r\u001b[10C"
+    ],
+    [
+      0.545367,
+      "\r\u001b[0K>>> foo = f\r\u001b[11C"
+    ],
+    [
+      0.103138,
+      "\r\u001b[0K>>> foo = fu\r\u001b[12C"
+    ],
+    [
+      0.166322,
+      "\r\u001b[0K>>> foo = fun\r\u001b[13C"
+    ],
+    [
+      0.099132,
+      "\r\u001b[0K>>> foo = func\r\u001b[14C"
+    ],
+    [
+      0.11431,
+      "\r\u001b[0K>>> foo = func \r\u001b[15C"
+    ],
+    [
+      0.580305,
+      "\r\u001b[0K>>> foo = func [\r\u001b[16C"
+    ],
+    [
+      0.868255,
+      "\r\n"
+    ],
+    [
+      7.5e-05,
+      ">>> "
+    ],
+    [
+      0.463724,
+      "\r\u001b[0K>>>  \r\u001b[5C"
+    ],
+    [
+      0.149693,
+      "\r\u001b[0K>>>   \r\u001b[6C"
+    ],
+    [
+      0.378726,
+      "\r\u001b[0K>>>   n\r\u001b[7C"
+    ],
+    [
+      0.085829,
+      "\r\u001b[0K>>>   ne\r\u001b[8C"
+    ],
+    [
+      0.070338,
+      "\r\u001b[0K>>>   neg\r\u001b[9C"
+    ],
+    [
+      0.132619,
+      "\r\u001b[0K>>>   nega\r\u001b[10C"
+    ],
+    [
+      0.150189,
+      "\r\u001b[0K>>>   negat\r\u001b[11C"
+    ],
+    [
+      0.104468,
+      "\r\u001b[0K>>>   negate\r\u001b[12C"
+    ],
+    [
+      0.108948,
+      "\r\u001b[0K>>>   negated\r\u001b[13C"
+    ],
+    [
+      0.439873,
+      "\r\u001b[0K>>>   negated \r\u001b[14C"
+    ],
+    [
+      0.253692,
+      "\r\u001b[0K>>>   negated =\r\u001b[15C"
+    ],
+    [
+      0.063291,
+      "\r\u001b[0K>>>   negated = \r\u001b[16C"
+    ],
+    [
+      0.353949,
+      "\r\u001b[0K>>>   negated = m\r\u001b[17C"
+    ],
+    [
+      0.109032,
+      "\r\u001b[0K>>>   negated = me\r\u001b[18C"
+    ],
+    [
+      0.038561,
+      "\r\u001b[0K>>>   negated = met\r\u001b[19C"
+    ],
+    [
+      0.15737,
+      "\r\u001b[0K>>>   negated = meth\r\u001b[20C"
+    ],
+    [
+      0.191667,
+      "\r\u001b[0K>>>   negated = metho\r\u001b[21C"
+    ],
+    [
+      0.125743,
+      "\r\u001b[0K>>>   negated = method\r\u001b[22C"
+    ],
+    [
+      0.39789,
+      "\r\u001b[0K>>>   negated = method \r\u001b[23C"
+    ],
+    [
+      0.500178,
+      "\r\u001b[0K>>>   negated = method [\r\u001b[24C"
+    ],
+    [
+      2.576615,
+      "\r\u001b[0K>>>   negated = method [ \r\u001b[25C"
+    ],
+    [
+      0.145935,
+      "\r\u001b[0K>>>   negated = method [ s\r\u001b[26C"
+    ],
+    [
+      1.022826,
+      "\r\u001b[0K>>>   negated = method [ se\r\u001b[27C"
+    ],
+    [
+      0.175271,
+      "\r\u001b[0K>>>   negated = method [ sel\r\u001b[28C"
+    ],
+    [
+      0.05364,
+      "\r\u001b[0K>>>   negated = method [ self\r\u001b[29C"
+    ],
+    [
+      0.175221,
+      "\r\u001b[0K>>>   negated = method [ self \r\u001b[30C"
+    ],
+    [
+      0.342614,
+      "\r\u001b[0K>>>   negated = method [ self\r\u001b[29C"
+    ],
+    [
+      0.661196,
+      "\r\u001b[0K>>>   negated = method [ self \r\u001b[30C"
+    ],
+    [
+      0.308477,
+      "\r\u001b[0K>>>   negated = method [ self ]\r\u001b[31C"
+    ],
+    [
+      2.198671,
+      "\r\n"
+    ],
+    [
+      0.000831,
+      ">>> "
+    ],
+    [
+      0.597464,
+      "\r\u001b[0K>>>  \r\u001b[5C"
+    ],
+    [
+      0.181566,
+      "\r\u001b[0K>>>   \r\u001b[6C"
+    ],
+    [
+      0.420204,
+      "\r\u001b[0K>>>   :\r\u001b[7C"
+    ],
+    [
+      0.234472,
+      "\r\u001b[0K>>>   :x\r\u001b[8C"
+    ],
+    [
+      0.193483,
+      "\r\u001b[0K>>>   :x \r\u001b[9C"
+    ],
+    [
+      0.500136,
+      "\r\u001b[0K>>>   :x n\r\u001b[10C"
+    ],
+    [
+      0.069472,
+      "\r\u001b[0K>>>   :x ne\r\u001b[11C"
+    ],
+    [
+      0.062428,
+      "\r\u001b[0K>>>   :x neg\r\u001b[12C"
+    ],
+    [
+      0.115593,
+      "\r\u001b[0K>>>   :x nega\r\u001b[13C"
+    ],
+    [
+      0.104162,
+      "\r\u001b[0K>>>   :x negat\r\u001b[14C"
+    ],
+    [
+      0.116752,
+      "\r\u001b[0K>>>   :x negate\r\u001b[15C"
+    ],
+    [
+      0.111075,
+      "\r\u001b[0K>>>   :x negated\r\u001b[16C"
+    ],
+    [
+      1.01693,
+      "\r\n>>> "
+    ],
+    [
+      1.130065,
+      "\r\u001b[0K>>> ]\r\u001b[5C"
+    ],
+    [
+      0.581334,
+      "\r\n"
+    ],
+    [
+      0.000261,
+      ">>> "
+    ],
+    [
+      0.160329,
+      "\r\nfunc [negated = method [self] :x negated]\r\n>>> "
+    ],
+    [
+      2.739846,
+      "\r\u001b[0K>>> f\r\u001b[5C"
+    ],
+    [
+      0.104474,
+      "\r\u001b[0K>>> fo\r\u001b[6C"
+    ],
+    [
+      0.140148,
+      "\r\u001b[0K>>> foo\r\u001b[7C"
+    ],
+    [
+      0.09569,
+      "\r\u001b[0K>>> foo \r\u001b[8C"
+    ],
+    [
+      0.331768,
+      "\r\u001b[0K>>> foo 5\r\u001b[9C"
+    ],
+    [
+      1.215989,
+      "\r\n>>> "
+    ],
+    [
+      0.438743,
+      "\r\n"
+    ],
+    [
+      0.003083,
+      "5\r\n"
+    ],
+    [
+      0.000307,
+      ">>> "
+    ],
+    [
+      5.82431,
+      "\r\u001b[0K>>> 5\r\u001b[5C"
+    ],
+    [
+      0.104985,
+      "\r\u001b[0K>>> 5 \r\u001b[6C"
+    ],
+    [
+      0.164888,
+      "\r\u001b[0K>>> 5 +\r\u001b[7C"
+    ],
+    [
+      0.07193,
+      "\r\u001b[0K>>> 5 + \r\u001b[8C"
+    ],
+    [
+      0.138338,
+      "\r\u001b[0K>>> 5 + 6\r\u001b[9C"
+    ],
+    [
+      0.272017,
+      "\r\n"
+    ],
+    [
+      0.000321,
+      ">>> "
+    ],
+    [
+      0.173283,
+      "\r\n"
+    ],
+    [
+      0.000345,
+      "11\r\n>>> "
+    ],
+    [
+      2.350421,
+      "\r\u001b[0K>>> '\r\u001b[5C"
+    ],
+    [
+      0.606265,
+      "\r\u001b[0K>>> '+\r\u001b[6C"
+    ],
+    [
+      0.05469,
+      "\r\u001b[0K>>> '+ \r\u001b[7C"
+    ],
+    [
+      0.380401,
+      "\r\u001b[0K>>> '+ ?\r\u001b[8C"
+    ],
+    [
+      0.055143,
+      "\r\u001b[0K>>> '+ ? \r\u001b[9C"
+    ],
+    [
+      0.604941,
+      "\r\u001b[0K>>> '+ ?\r\u001b[8C"
+    ],
+    [
+      0.140966,
+      "\r\u001b[0K>>> '+ \r\u001b[7C"
+    ],
+    [
+      0.165068,
+      "\r\u001b[0K>>> '+ ?\r\u001b[8C"
+    ],
+    [
+      0.517061,
+      "\r\u001b[0K>>> '+ \r\u001b[7C"
+    ],
+    [
+      0.36455,
+      "\r\u001b[0K>>> '+ =\r\u001b[8C"
+    ],
+    [
+      0.316773,
+      "\r\u001b[0K>>> '+ = \r\u001b[9C"
+    ],
+    [
+      1.954616,
+      "\r\u001b[0K>>> '+ = $\r\u001b[10C"
+    ],
+    [
+      3.560371,
+      "\r\u001b[0K>>> '+ = $-\r\u001b[11C"
+    ],
+    [
+      0.68598,
+      "\r\n"
+    ],
+    [
+      0.000485,
+      ">>> "
+    ],
+    [
+      0.429839,
+      "\r\n"
+    ],
+    [
+      0.000428,
+      "primitive-method\r\n>>> "
+    ],
+    [
+      2.339006,
+      "\r\u001b[0K>>> 5\r\u001b[5C"
+    ],
+    [
+      0.152073,
+      "\r\u001b[0K>>> 5 \r\u001b[6C"
+    ],
+    [
+      0.173994,
+      "\r\u001b[0K>>> 5 +\r\u001b[7C"
+    ],
+    [
+      0.080213,
+      "\r\u001b[0K>>> 5 + \r\u001b[8C"
+    ],
+    [
+      0.115491,
+      "\r\u001b[0K>>> 5 + 6\r\u001b[9C"
+    ],
+    [
+      0.536075,
+      "\r\n"
+    ],
+    [
+      0.000548,
+      ">>> "
+    ],
+    [
+      0.156396,
+      "\r\n"
+    ],
+    [
+      0.000947,
+      "-1\r\n>>> "
+    ]
+  ],
+  "width": 80,
+  "version": 1,
+  "command": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "title": null,
+  "duration": 121.292608,
+  "height": 32
+}

@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sprylang and Odd Ideas in Language Design</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body, h1, h2, h3, li {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: 400;
+        margin-bottom: 0;
+      }
+      .remark-slide-content h1 { font-size: 4em; }
+      .remark-slide-content h2 { font-size: 3em; }
+      .remark-slide-content h3 { font-size: 2em; }
+      .footnote {
+        position: absolute;
+        bottom: 3em;
+      }
+      p {font-size: 2.2em; line-height: 1.25em; font-weight: 100;}
+      li { font-size: 2.4em; line-height: 1.25em;}
+      li > ul > li { font-size: 0.8em; line-height: 0.8em;}
+      .red { color: #fa0000; }
+      .large { font-size: 2em; }
+      a, a > code {
+        color: rgb(249, 38, 114);
+        text-decoration: none;
+      }
+      code {
+        background: #e7e8e2;
+        border-radius: 5px;
+      }
+      .remark-code, .remark-inline-code { font-size: 0.8em; font-family: 'Ubuntu Mono'; }
+      .remark-code-line-highlighted     { background-color: #373832; }
+      .pull-left {
+        float: left;
+        width: 47%;
+      }
+      .pull-right {
+        float: right;
+        width: 47%;
+      }
+      .pull-right ~ p {
+        clear: both;
+      }
+      #slideshow .slide .content code {
+        font-size: 0.8em;
+      }
+      #slideshow .slide .content pre code {
+        font-size: 0.9em;
+        padding: 15px;
+      }
+      .inverse {
+        background: #272822;
+        color: #777872;
+        text-shadow: 0 0 20px #333;
+      }
+      .inverse h1, .inverse h2 {
+        color: #f3f3f3;
+        line-height: 0.8em;
+      }
+
+      /* Slide-specific styling */
+      #slide-inverse .footnote {
+        bottom: 12px;
+        left: 20px;
+      }
+      #slide-how .slides {
+        font-size: 0.9em;
+        position: absolute;
+        top:  151px;
+        right: 140px;
+      }
+      #slide-how .slides h3 {
+        margin-top: 0.2em;
+      }
+      #slide-how .slides .first, #slide-how .slides .second {
+        padding: 1px 20px;
+        height: 90px;
+        width: 120px;
+        -moz-box-shadow: 0 0 10px #777;
+        -webkit-box-shadow: 0 0 10px #777;
+        box-shadow: 0 0 10px #777;
+      }
+      #slide-how .slides .first {
+        background: #fff;
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        z-index: 1;
+      }
+      #slide-how .slides .second {
+        position: relative;
+        background: #fff;
+        z-index: 0;
+      }
+
+      /* Two-column layout */
+      .left-column {
+        color: #777;
+        width: 20%;
+        height: 92%;
+        float: left;
+      }
+        .left-column h2:last-of-type, .left-column h3:last-child {
+          color: #000;
+        }
+      .right-column {
+        width: 75%;
+        float: right;
+        padding-top: 8em;
+      }
+    </style>
+    <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
+  </head>
+  <body>
+    <textarea id="source">
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+layout: false
+class: center, middle
+
+# Sprylang and Odd Ideas
+# in Language Design
+
+.footnote[Language is at [sprylang.org](http://sprylang.org)]
+???
+* Spry is exploring "odd ideas"
+* Some of these ideas may expand your thinking
+* This presentation tries to show some of them, but you typically need to know Spry fairly well to understand all of it without my voice over 
+---
+template: inverse
+# Seriously? Yet Another Language?
+???
+* Because it's fun!
+* It's a learning experience to make a language
+* And there are things not yet done in language design
+* No, it doesn't have to be useful. :)
+---
+
+# Slides
+
+* Get Spry going
+* What is Spry?
+* Homoiconicism
+* Vocabularism
+* Spryism
+* Discussion
+---
+## Get Spry going
+
+<asciinema-player src="getstarted.json" font-size="medium" rows="20" speed="2"></asciinema-player>
+???
+* Just a quick run through on how to build and install Spry in a clean Ubuntu
+* Use arrow-right to "speed step" through slow parts
+---
+layout: false
+.left-column[
+  ## What is Spry?
+]
+.right-column[
+- Dynamically typed
+- Minimalistic
+- Live
+- Smalltalkish
+- AST Interpreter
+]
+???
+* Hard to summarize in a few bullets, but it's a mix of Forth, Rebol, Javascript, Smalltalk, Lisp.
+* The aim for the language is to be "a new Smalltalk", with great live coding
+* It rides on top of Nim and gets a lot of "super powers" from it, kudos to Andreas Rumpf and the Nim developers for creating such a powerful base
+---
+layout: false
+.left-column[
+  ## Homoiconicism
+]
+.right-column[
+* The structure of code uses core data structure of the language
+* Lisp is the obvious example - everything is a list
+* Spry has **three** different structures: Blocks, Parens and Curlys
+]
+???
+The layout of the textual source code corresponds to the AST
+The AST is constructed using the core data types of the language
+The AST can be manipulated as data, thus "code is data"
+
+---
+layout: false
+.left-column[
+  ## Homoiconicism
+  ### Blocks
+]
+.right-column[
+<asciinema-player src="blocks.json" font-size="medium" rows="16" cols="50" speed="2"></asciinema-player>
+]
+---
+layout: false
+.left-column[
+  ## Homoiconicism
+  ### Blocks
+  ### Parens
+]
+.right-column[
+<asciinema-player src="parens.json" font-size="medium" rows="16" cols="50" speed="2"></asciinema-player>
+]
+---
+layout: false
+.left-column[
+  ## Homoiconicism
+  ### Blocks
+  ### Parens
+  ### Curlys
+]
+.right-column[
+<asciinema-player src="curlys.json" font-size="medium" rows="16" cols="50" speed="2"></asciinema-player>
+]
+---
+layout: false
+.left-column[
+  ## Homoiconicism
+  ### Blocks
+  ### Parens
+  ### Curlys
+  ### Sample
+]
+.right-column[
+In the end, Spry is fairly readable:
+```spry
+#!/usr/bin/env spry
+# Parallell factorial benchmark
+foo = func [
+  factorial = func [
+    :n > 0
+      then: [n * factorial (n - 1)]
+      else: [1]
+  ]
+  1000 repeat: [factorial 12]
+  echo "Thread done"
+]
+5 repeat: [spawn $foo]
+echo "Started all threads, now sleeping ..."
+sleep 5000
+```
+]
+---
+layout: false
+.left-column[
+  ## Vocabularism
+]
+.right-column[
+* Kinda like in Forth or Rebol
+* Everything is held in a "variable"
+* We reach them via Words
+* Everything is a "value"
+]
+---
+layout: false
+.left-column[
+  ## Vocabularism
+  ### Words
+]
+.right-column[
+* Eval Words - `foo`
+* Get Words - `$foo`
+* Literal Words - `'foo`
+* Keywords - `foo:`, `foo:bar:`
+]
+---
+layout: false
+.left-column[
+  ## Vocabularism
+  ### Words
+  ### Values
+]
+.right-column[
+<asciinema-player src="vocab.json" font-size="medium" rows="16" cols="50" speed="2"></asciinema-player>
+]
+---
+layout: false
+.left-column[
+  ## Spryism
+  ### Prefix, postfix, separators
+  ]
+.right-column[
+* Prefix functions:
+  - `echo "hey"`
+* Postfix methods:
+  - `5 + 6`
+* Keywords:
+  - `foo at: 1 put: "hey"`  
+* And no separators...
+* Is hard to read!
+]
+---
+layout: false
+.left-column[
+  ## Spryism
+  ### Prefix, postfix, separators
+  ### Arg Words
+  ]
+.right-column[
+<asciinema-player src="argwords.json" font-size="medium" rows="16" cols="50" speed="2"></asciinema-player>
+]
+---
+layout: false
+.left-column[
+  ## Spryism
+  ### Prefix, postfix, separators
+  ### Arg Words
+  ### Polymethods and Tags
+  ]
+.right-column[
+<asciinema-player src="poly.json" font-size="medium" rows="16" cols="50" speed="2"></asciinema-player>
+]
+---
+template: inverse
+# Discussion!
+
+.footnote[Thank you :)]
+???
+    </textarea>
+    <script src="remark-latest.min.js" type="text/javascript"></script>
+    <script>
+      var hljs = remark.highlighter.engine;
+    </script>
+    <script src="remark.language.js"></script>
+    <script>
+      var slideshow = remark.create({
+          highlightStyle: 'monokai',
+          highlightLanguage: 'remark',
+          highlightLines: true
+        }) ;
+    </script>
+    <script src="/asciinema-player.js"></script>
+  </body>
+</html>
