@@ -20,6 +20,8 @@
         position: absolute;
         bottom: 3em;
       }
+      .remark-notes { font-size: 0.5em;}
+      .remark-notes-preview { font-size: 0.5em;}
       p {font-size: 2.2em; line-height: 1.25em; font-weight: 100;}
       li { font-size: 2.4em; line-height: 1.25em;}
       li > ul > li { font-size: 0.8em; line-height: 0.8em;}
@@ -149,8 +151,10 @@ template: inverse
 * What is Spry?
 * Homoiconicism
 * Vocabularism
-* Spryism
+* Spryisms
 * Discussion
+???
+A few "made up" isms :)
 ---
 ## Get Spry going
 
@@ -185,9 +189,10 @@ layout: false
 * Spry has **three** different structures: Blocks, Parens and Curlys
 ]
 ???
-The layout of the textual source code corresponds to the AST
-The AST is constructed using the core data types of the language
-The AST can be manipulated as data, thus "code is data"
+* The layout of the textual source code corresponds to the AST
+* The AST is constructed using the core data types of the language
+* The AST can be manipulated as data, thus "code is data"
+* Spy using [], (), {} creates a more diverse visual look&feel than Lisp which hopefully leads to a more readable language.
 
 ---
 layout: false
@@ -247,6 +252,9 @@ echo "Started all threads, now sleeping ..."
 sleep 5000
 ```
 ]
+???
+* This is just a sample script that spawns off a func foo, with a nested func factorial - to run in 5 separate native threads.
+* The only purpose was to show a bit how Spry code can look - it probably looks like a blend of Smalltalk and typical scripting languages.
 ---
 layout: false
 .left-column[
@@ -258,6 +266,9 @@ layout: false
 * We reach them via Words
 * Everything is a "value"
 ]
+???
+* Spry thus has no builtin constructs in the language, all computation is done by values bound to names.
+* These values are accessed using Words
 ---
 layout: false
 .left-column[
@@ -296,6 +307,9 @@ layout: false
 * And no separators...
 * Is hard to read!
 ]
+???
+* Spry currently suffers from the same symptom that Forth does, unless you know what every thing means, it's very hard to read.
+* Possibly one would need to drop prefix functions to make it more obvious what happens.
 ---
 layout: false
 .left-column[
@@ -306,6 +320,11 @@ layout: false
 .right-column[
 <asciinema-player src="argwords.json" font-size="medium" rows="16" cols="50" speed="2"></asciinema-player>
 ]
+???
+* Conceptually arg words are operations, not declarations. An arg word "pulls in" the next argument from the call site.
+* This means there are no declarations of anything in Spry, not even parameters to functions.
+* Stack based languages are similar, but Spry does not use a stack, instead the arguments are pulled in from the AST itself.
+* The last example shows pulling in an argument without evaluating it first at the call site. This is powerful and creates a macro like mechanism.
 ---
 layout: false
 .left-column[
@@ -317,6 +336,10 @@ layout: false
 .right-column[
 <asciinema-player src="poly.json" font-size="medium" rows="16" cols="50" speed="2"></asciinema-player>
 ]
+???
+* Tags and selection of method bodies based on the tags of the receiver is the means to create polymorphism in Spry.
+* Since Spry is live we can compose polymethods dynamically and combine "method bodies" from different Modules into a single polymethod.
+* Tags are dynamic which means Spry objects can change their behavior ("class" or "interface") dynamically.
 ---
 template: inverse
 # Discussion!
